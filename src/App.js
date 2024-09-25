@@ -1,12 +1,14 @@
+import React from 'react';
 import Header from './components/Header';
-import Gallery from './components/contents/Gallery';
+import AppRouter from './AppRouter';
+import { HashRouter as Router } from 'react-router-dom';
 
 function App() {
   return (
-    <>
+    <Router>
       <Header />
-      <Gallery />
-    </>
+      <AppRouter />
+    </Router>
   );
 }
 

@@ -2,16 +2,16 @@ import React, { useEffect } from 'react';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
-const Gallery = () => {
+const Home = () => {
     useEffect(() => {
-        const lightbox = GLightbox({
+        GLightbox({
             selector: '.glightbox',
         });
     }, []);
 
     return (
         <main className="main">
-            {/* Gallery */}
+            {/* Home */}
             <section id="gallery" className="gallery section">
                 <div className="container-fluid" data-aos="fade-up" data-aos-delay="100">
                     <div className="row gy-4 justify-content-center">
@@ -85,4 +85,4 @@ const Gallery = () => {
     );
 };
 
-export default Gallery;
+export default Home;
