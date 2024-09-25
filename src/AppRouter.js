@@ -14,7 +14,7 @@ import ClassroomOfTheElite from './components/contents/anime/2017/ClassroomOfThe
 const AppRouter = () => {
     return (
         <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/my-waifu-list" element={<Home />} />
 
             {/* Games */}
             <Route path="/games/genshin-impact" element={<GenshinImpact />} />
