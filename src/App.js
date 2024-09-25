@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import AppRouter from './AppRouter';
-import { HashRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
   return (
