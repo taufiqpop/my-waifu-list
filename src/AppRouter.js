@@ -17,13 +17,13 @@ const AppRouter = () => {
             <Route path="/my-waifu-list" element={<Home />} />
 
             {/* Games */}
-            <Route path="/games/genshin-impact" element={<GenshinImpact />} />
-            <Route path="/games/honkai-star-rail" element={<HonkaiStarRail />} />
-            <Route path="/games/wuthering-waves" element={<WutheringWaves />} />
+            <Route path="/my-waifu-list/games/genshin-impact" element={<GenshinImpact />} />
+            <Route path="/my-waifu-list/games/honkai-star-rail" element={<HonkaiStarRail />} />
+            <Route path="/my-waifu-list/games/wuthering-waves" element={<WutheringWaves />} />
 
             {/* Anime 2017 */}
-            <Route path="/anime/2017/akashic-records" element={<AkashicRecords />} />
-            <Route path="/anime/2017/classroom-of-the-elite" element={<ClassroomOfTheElite />} />
+            <Route path="/my-waifu-list/anime/2017/akashic-records" element={<AkashicRecords />} />
+            <Route path="/my-waifu-list/anime/2017/classroom-of-the-elite" element={<ClassroomOfTheElite />} />
 
         </Routes>
     );
