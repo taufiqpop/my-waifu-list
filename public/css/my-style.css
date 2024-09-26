@@ -1,3 +1,7 @@
 .waifu-overlay {
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.my-rating:hover {
+    transform: scale(1.1);
 }
