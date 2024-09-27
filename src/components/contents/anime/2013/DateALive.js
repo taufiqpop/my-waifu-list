@@ -28,13 +28,13 @@ const DateALive = () => {
                         {/* Itsuka Kotori */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/date-a-live/ItsukaKotori.jpg" className="img-fluid" alt="Itsuka Kotori" />
+                                <img src="img/anime/2013/date-a-live/ItsukaKotori.gif" className="img-fluid" alt="Itsuka Kotori" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Itsuka Kotori</small>
                                             <br />
-                                            <a href="img/anime/2013/date-a-live/ItsukaKotori.jpg" className="glightbox preview-link">(Date A Live)</a>
+                                            <a href="img/anime/2013/date-a-live/ItsukaKotori.gif" className="glightbox preview-link">(Date A Live)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const DateALive = () => {
                         {/* Tobiichi Origami */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/date-a-live/TobiichiOrigami.png" className="img-fluid" alt="Tobiichi Origami" />
+                                <img src="img/anime/2013/date-a-live/TobiichiOrigami.gif" className="img-fluid" alt="Tobiichi Origami" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Tobiichi Origami</small>
                                             <br />
-                                            <a href="img/anime/2013/date-a-live/TobiichiOrigami.png" className="glightbox preview-link">(Date A Live)</a>
+                                            <a href="img/anime/2013/date-a-live/TobiichiOrigami.gif" className="glightbox preview-link">(Date A Live)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -60,13 +60,13 @@ const DateALive = () => {
                         {/* Tokisaki Kurumi */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/date-a-live/TokisakiKurumi.jpg" className="img-fluid" alt="Tokisaki Kurumi" />
+                                <img src="img/anime/2013/date-a-live/TokisakiKurumi.gif" className="img-fluid" alt="Tokisaki Kurumi" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Tokisaki Kurumi</small>
                                             <br />
-                                            <a href="img/anime/2013/date-a-live/TokisakiKurumi.jpg" className="glightbox preview-link">(Date A Live)</a>
+                                            <a href="img/anime/2013/date-a-live/TokisakiKurumi.gif" className="glightbox preview-link">(Date A Live)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -76,13 +76,13 @@ const DateALive = () => {
                         {/* Yatogami Tohka */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/date-a-live/YatogamiTohka.jpg" className="img-fluid" alt="Yatogami Tohka" />
+                                <img src="img/anime/2013/date-a-live/YatogamiTohka.gif" className="img-fluid" alt="Yatogami Tohka" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yatogami Tohka</small>
                                             <br />
-                                            <a href="img/anime/2013/date-a-live/YatogamiTohka.jpg" className="glightbox preview-link">(Date A Live)</a>
+                                            <a href="img/anime/2013/date-a-live/YatogamiTohka.gif" className="glightbox preview-link">(Date A Live)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -92,35 +92,99 @@ const DateALive = () => {
                         {/* Izayoi Miku */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/date-a-live/IzayoiMiku.jpg" className="img-fluid" alt="Izayoi Miku" />
+                                <img src="img/anime/2013/date-a-live/IzayoiMiku.gif" className="img-fluid" alt="Izayoi Miku" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Izayoi Miku</small>
                                             <br />
-                                            <a href="img/anime/2013/date-a-live/IzayoiMiku.jpg" className="glightbox preview-link">(Date A Live)</a>
+                                            <a href="img/anime/2013/date-a-live/IzayoiMiku.gif" className="glightbox preview-link">(Date A Live)</a>
                                         </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        {/* Yamai Kaguya & Yuzuru */}
+                        {/* Yamai Kaguya */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/date-a-live/YamaiKaguyaYuzuru.jpg" className="img-fluid" alt="Yamai Kaguya & Yuzuru" />
+                                <img src="img/anime/2013/date-a-live/YamaiKaguya.webp" className="img-fluid" alt="Yamai Kaguya" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Yamai Kaguya & Yuzuru</small>
+                                            <small>Yamai Kaguya</small>
                                             <br />
-                                            <a href="img/anime/2013/date-a-live/YamaiKaguyaYuzuru.jpg" className="glightbox preview-link">(Date A Live)</a>
+                                            <a href="img/anime/2013/date-a-live/YamaiKaguya.webp" className="glightbox preview-link">(Date A Live)</a>
                                         </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
+
+                        {/* Yamai Yuzuru */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2013/date-a-live/YamaiYuzuru.gif" className="img-fluid" alt="Yamai Yuzuru" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Yamai Yuzuru</small>
+                                            <br />
+                                            <a href="img/anime/2013/date-a-live/YamaiYuzuru.gif" className="glightbox preview-link">(Date A Live)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Hoshimiya Mukuro */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2013/date-a-live/HoshimiyaMukuro.gif" className="img-fluid" alt="Hoshimiya Mukuro" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Hoshimiya Mukuro</small>
+                                            <br />
+                                            <a href="img/anime/2013/date-a-live/HoshimiyaMukuro.gif" className="glightbox preview-link">(Date A Live)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Bell Ashcroft Artemisia */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2013/date-a-live/BellAshcroftArtemisia.gif" className="img-fluid" alt="Bell Ashcroft Artemisia" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Bell Ashcroft Artemisia</small>
+                                            <br />
+                                            <a href="img/anime/2013/date-a-live/BellAshcroftArtemisia.gif" className="glightbox preview-link">(Date A Live)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Mathers Ellen Mira */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2013/date-a-live/MathersEllenMira.gif" className="img-fluid" alt="Mathers Ellen Mira" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Mathers Ellen Mira</small>
+                                            <br />
+                                            <a href="img/anime/2013/date-a-live/MathersEllenMira.gif" className="glightbox preview-link">(Date A Live)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>

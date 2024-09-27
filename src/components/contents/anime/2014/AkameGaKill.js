@@ -28,13 +28,13 @@ const AkameGaKill = () => {
                         {/* Kurome */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2014/akame-ga-kill/Kurome.jpg" className="img-fluid" alt="Kurome" />
+                                <img src="img/anime/2014/akame-ga-kill/Kurome.gif" className="img-fluid" alt="Kurome" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kurome</small>
                                             <br />
-                                            <a href="img/anime/2014/akame-ga-kill/Kurome.jpg" className="glightbox preview-link">(Akame Ga Kill)</a>
+                                            <a href="img/anime/2014/akame-ga-kill/Kurome.gif" className="glightbox preview-link">(Akame Ga Kill)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,29 @@ const AkameGaKill = () => {
                         {/* Akame */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2014/akame-ga-kill/Akame.png" className="img-fluid" alt="Akame" />
+                                <img src="img/anime/2014/akame-ga-kill/Akame.gif" className="img-fluid" alt="Akame" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Akame</small>
                                             <br />
-                                            <a href="img/anime/2014/akame-ga-kill/Akame.png" className="glightbox preview-link">(Akame Ga Kill)</a>
+                                            <a href="img/anime/2014/akame-ga-kill/Akame.gif" className="glightbox preview-link">(Akame Ga Kill)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Chelsea */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2014/akame-ga-kill/Chelsea.gif" className="img-fluid" alt="Chelsea" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Chelsea</small>
+                                            <br />
+                                            <a href="img/anime/2014/akame-ga-kill/Chelsea.gif" className="glightbox preview-link">(Akame Ga Kill)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -60,13 +76,13 @@ const AkameGaKill = () => {
                         {/* Mine */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2014/akame-ga-kill/Mine.jpg" className="img-fluid" alt="Mine" />
+                                <img src="img/anime/2014/akame-ga-kill/Mine.gif" className="img-fluid" alt="Mine" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Mine</small>
                                             <br />
-                                            <a href="img/anime/2014/akame-ga-kill/Mine.jpg" className="glightbox preview-link">(Akame Ga Kill)</a>
+                                            <a href="img/anime/2014/akame-ga-kill/Mine.gif" className="glightbox preview-link">(Akame Ga Kill)</a>
                                         </h5>
                                     </div>
                                 </div>

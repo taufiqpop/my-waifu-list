@@ -28,13 +28,13 @@ const Charlotte = () => {
                         {/* Tomori Nao */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2015/charlotte/KurobaneYusa.webp" className="img-fluid" alt="Kurobane Yusa" />
+                                <img src="img/anime/2015/charlotte/KurobaneYusa.gif" className="img-fluid" alt="Kurobane Yusa" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kurobane Yusa</small>
                                             <br />
-                                            <a href="img/anime/2015/charlotte/KurobaneYusa.webp" className="glightbox preview-link">(Charlotte)</a>
+                                            <a href="img/anime/2015/charlotte/KurobaneYusa.gif" className="glightbox preview-link">(Charlotte)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const Charlotte = () => {
                         {/* Tomori Nao */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2015/charlotte/TomoriNao.webp" className="img-fluid" alt="Tomori Nao" />
+                                <img src="img/anime/2015/charlotte/TomoriNao.gif" className="img-fluid" alt="Tomori Nao" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Tomori Nao</small>
                                             <br />
-                                            <a href="img/anime/2015/charlotte/TomoriNao.webp" className="glightbox preview-link">(Charlotte)</a>
+                                            <a href="img/anime/2015/charlotte/TomoriNao.gif" className="glightbox preview-link">(Charlotte)</a>
                                         </h5>
                                     </div>
                                 </div>

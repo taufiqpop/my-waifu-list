@@ -28,13 +28,13 @@ const TrinitySeven = () => {
                         {/* Asami Lilith */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2014/trinity-seven/AsamiLilith.webp" className="img-fluid" alt="Asami Lilith" />
+                                <img src="img/anime/2014/trinity-seven/AsamiLilith.gif" className="img-fluid" alt="Asami Lilith" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Asami Lilith</small>
                                             <br />
-                                            <a href="img/anime/2014/trinity-seven/AsamiLilith.webp" className="glightbox preview-link">(Trinity Seven)</a>
+                                            <a href="img/anime/2014/trinity-seven/AsamiLilith.gif" className="glightbox preview-link">(Trinity Seven)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -76,13 +76,13 @@ const TrinitySeven = () => {
                         {/* Sherlock Selina */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2014/trinity-seven/SherlockSelina.webp" className="img-fluid" alt="Sherlock Selina" />
+                                <img src="img/anime/2014/trinity-seven/SherlockSelina.gif" className="img-fluid" alt="Sherlock Selina" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sherlock Selina</small>
                                             <br />
-                                            <a href="img/anime/2014/trinity-seven/SherlockSelina.webp" className="glightbox preview-link">(Trinity Seven)</a>
+                                            <a href="img/anime/2014/trinity-seven/SherlockSelina.gif" className="glightbox preview-link">(Trinity Seven)</a>
                                         </h5>
                                     </div>
                                 </div>

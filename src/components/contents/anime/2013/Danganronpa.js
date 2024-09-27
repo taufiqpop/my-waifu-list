@@ -28,13 +28,13 @@ const Danganronpa = () => {
                         {/* Nanami Chiaki */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/danganronpa/NanamiChiaki.jpg" className="img-fluid" alt="Nanami Chiaki" />
+                                <img src="img/anime/2013/danganronpa/NanamiChiaki.gif" className="img-fluid" alt="Nanami Chiaki" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nanami Chiaki</small>
                                             <br />
-                                            <a href="img/anime/2013/danganronpa/NanamiChiaki.jpg" className="glightbox preview-link">(Danganronpa)</a>
+                                            <a href="img/anime/2013/danganronpa/NanamiChiaki.gif" className="glightbox preview-link">(Danganronpa)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const Danganronpa = () => {
                         {/* Kirigiri Kyouko */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/danganronpa/KirigiriKyouko.jpg" className="img-fluid" alt="Kirigiri Kyouko" />
+                                <img src="img/anime/2013/danganronpa/KirigiriKyouko.gif" className="img-fluid" alt="Kirigiri Kyouko" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kirigiri Kyouko</small>
                                             <br />
-                                            <a href="img/anime/2013/danganronpa/KirigiriKyouko.jpg" className="glightbox preview-link">(Danganronpa)</a>
+                                            <a href="img/anime/2013/danganronpa/KirigiriKyouko.gif" className="glightbox preview-link">(Danganronpa)</a>
                                         </h5>
                                     </div>
                                 </div>
