@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import AppRouter from './AppRouter';
+import Footer from './components/Footer';
 import { HashRouter as Router } from 'react-router-dom';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <Router>
       <Header />
       <AppRouter />
+      <Footer />
     </Router>
   );
 }

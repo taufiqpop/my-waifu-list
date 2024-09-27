@@ -5,3 +5,13 @@
 .my-rating:hover {
     transform: scale(1.1);
 }
+
+.social-links a {
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    color: #007bff;
+}
