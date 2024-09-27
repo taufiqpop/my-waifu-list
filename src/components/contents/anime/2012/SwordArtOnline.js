@@ -28,13 +28,13 @@ const SwordArtOnline = () => {
                         {/* Yuuki Asuna */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2012/sword-art-online/YuukiAsuna.webp" className="img-fluid" alt="Yuuki Asuna" />
+                                <img src="img/anime/2012/sword-art-online/YuukiAsuna.gif" className="img-fluid" alt="Yuuki Asuna" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yuuki Asuna</small>
                                             <br />
-                                            <a href="img/anime/2012/sword-art-online/YuukiAsuna.webp" className="glightbox preview-link">(Sword Art Online)</a>
+                                            <a href="img/anime/2012/sword-art-online/YuukiAsuna.gif" className="glightbox preview-link">(Sword Art Online)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,19 +44,83 @@ const SwordArtOnline = () => {
                         {/* Asada Shino */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2012/sword-art-online/AsadaShino.webp" className="img-fluid" alt="Asada Shino" />
+                                <img src="img/anime/2012/sword-art-online/AsadaShino.gif" className="img-fluid" alt="Asada Shino" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Asada Shino</small>
                                             <br />
-                                            <a href="img/anime/2012/sword-art-online/AsadaShino.webp" className="glightbox preview-link">(Sword Art Online)</a>
+                                            <a href="img/anime/2012/sword-art-online/AsadaShino.gif" className="glightbox preview-link">(Sword Art Online)</a>
                                         </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
+
+                        {/* Kirigaya Suguha */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2012/sword-art-online/KirigayaSuguha.webp" className="img-fluid" alt="Kirigaya Suguha" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Kirigaya Suguha</small>
+                                            <br />
+                                            <a href="img/anime/2012/sword-art-online/KirigayaSuguha.webp" className="glightbox preview-link">(Sword Art Online)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Zuberg Alice */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2012/sword-art-online/ZubergAlice.webp" className="img-fluid" alt="Zuberg Alice" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Zuberg Alice</small>
+                                            <br />
+                                            <a href="img/anime/2012/sword-art-online/ZubergAlice.webp" className="glightbox preview-link">(Sword Art Online)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Quinella */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2012/sword-art-online/Quinella.gif" className="img-fluid" alt="Quinella" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Quinella</small>
+                                            <br />
+                                            <a href="img/anime/2012/sword-art-online/Quinella.gif" className="glightbox preview-link">(Sword Art Online)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* LLENN */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2012/sword-art-online/LLENN.gif" className="img-fluid" alt="LLENN" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>LLENN</small>
+                                            <br />
+                                            <a href="img/anime/2012/sword-art-online/LLENN.gif" className="glightbox preview-link">(Sword Art Online)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>

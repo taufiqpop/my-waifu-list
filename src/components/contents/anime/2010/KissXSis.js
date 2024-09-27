@@ -28,13 +28,29 @@ const KissXSis = () => {
                         {/* Suminoe Ako */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2010/kiss-x-sis/SuminoeAko.png" className="img-fluid" alt="Suminoe Ako" />
+                                <img src="img/anime/2010/kiss-x-sis/SuminoeAko.gif" className="img-fluid" alt="Suminoe Ako" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Suminoe Ako</small>
                                             <br />
-                                            <a href="img/anime/2010/kiss-x-sis/SuminoeAko.png" className="glightbox preview-link">(Kiss X Sis)</a>
+                                            <a href="img/anime/2010/kiss-x-sis/SuminoeAko.gif" className="glightbox preview-link">(Kiss X Sis)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Suminoe Riko */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2010/kiss-x-sis/SuminoeRiko.gif" className="img-fluid" alt="Suminoe Riko" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Suminoe Riko</small>
+                                            <br />
+                                            <a href="img/anime/2010/kiss-x-sis/SuminoeRiko.gif" className="glightbox preview-link">(Kiss X Sis)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +60,13 @@ const KissXSis = () => {
                         {/* Kiryuu Yuuzuki */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2010/kiss-x-sis/KiryuuYuuzuki.jpg" className="img-fluid" alt="Kiryuu Yuuzuki" />
+                                <img src="img/anime/2010/kiss-x-sis/KiryuuYuuzuki.webp" className="img-fluid" alt="Kiryuu Yuuzuki" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kiryuu Yuuzuki</small>
                                             <br />
-                                            <a href="img/anime/2010/kiss-x-sis/KiryuuYuuzuki.jpg" className="glightbox preview-link">(Kiss X Sis)</a>
+                                            <a href="img/anime/2010/kiss-x-sis/KiryuuYuuzuki.webp" className="glightbox preview-link">(Kiss X Sis)</a>
                                         </h5>
                                     </div>
                                 </div>
