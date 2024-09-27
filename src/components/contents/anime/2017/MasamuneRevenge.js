@@ -28,13 +28,13 @@ const MasamuneRevenge = () => {
                         {/* Koiwai Yoshino */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/masamune-revenge/KoiwaiYoshino.jpg" className="img-fluid" alt="Koiwai Yoshino" />
+                                <img src="img/anime/2017/masamune-revenge/KoiwaiYoshino.gif" className="img-fluid" alt="Koiwai Yoshino" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Koiwai Yoshino</small>
                                             <br />
-                                            <a href="img/anime/2017/masamune-revenge/KoiwaiYoshino.jpg" className="glightbox preview-link">(Masamune's Revenge)</a>
+                                            <a href="img/anime/2017/masamune-revenge/KoiwaiYoshino.gif" className="glightbox preview-link">(Masamune's Revenge)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const MasamuneRevenge = () => {
                         {/* Adagaki Aki */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/masamune-revenge/AdagakiAki.jpg" className="img-fluid" alt="Adagaki Aki" />
+                                <img src="img/anime/2017/masamune-revenge/AdagakiAki.gif" className="img-fluid" alt="Adagaki Aki" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Adagaki Aki</small>
                                             <br />
-                                            <a href="img/anime/2017/masamune-revenge/AdagakiAki.jpg" className="glightbox preview-link">(Masamune's Revenge)</a>
+                                            <a href="img/anime/2017/masamune-revenge/AdagakiAki.gif" className="glightbox preview-link">(Masamune's Revenge)</a>
                                         </h5>
                                     </div>
                                 </div>

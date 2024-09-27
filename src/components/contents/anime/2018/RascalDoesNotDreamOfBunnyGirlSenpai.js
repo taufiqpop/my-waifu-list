@@ -28,13 +28,13 @@ const RascalDoesNotDreamOfBunnyGirlSenpai = () => {
                         {/* Sakurajima Mai */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/SakurajimaMai.webp" className="img-fluid" alt="Sakurajima Mai" />
+                                <img src="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/SakurajimaMai.gif" className="img-fluid" alt="Sakurajima Mai" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sakurajima Mai</small>
                                             <br />
-                                            <a href="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/SakurajimaMai.webp" className="glightbox preview-link">(Rascal Does Not Dream)</a>
+                                            <a href="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/SakurajimaMai.gif" className="glightbox preview-link">(Rascal Does Not Dream)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const RascalDoesNotDreamOfBunnyGirlSenpai = () => {
                         {/* Azusagawa Kaede */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/AzusagawaKaede.webp" className="img-fluid" alt="Azusagawa Kaede" />
+                                <img src="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/AzusagawaKaede.gif" className="img-fluid" alt="Azusagawa Kaede" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Azusagawa Kaede</small>
                                             <br />
-                                            <a href="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/AzusagawaKaede.webp" className="glightbox preview-link">(Rascal Does Not Dream)</a>
+                                            <a href="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/AzusagawaKaede.gif" className="glightbox preview-link">(Rascal Does Not Dream)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -60,13 +60,13 @@ const RascalDoesNotDreamOfBunnyGirlSenpai = () => {
                         {/* Makinohara Shouko */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/MakinoharaShouko.webp" className="img-fluid" alt="Makinohara Shouko" />
+                                <img src="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/MakinoharaShouko.gif" className="img-fluid" alt="Makinohara Shouko" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Makinohara Shouko</small>
                                             <br />
-                                            <a href="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/MakinoharaShouko.webp" className="glightbox preview-link">(Rascal Does Not Dream)</a>
+                                            <a href="img/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai/MakinoharaShouko.gif" className="glightbox preview-link">(Rascal Does Not Dream)</a>
                                         </h5>
                                     </div>
                                 </div>

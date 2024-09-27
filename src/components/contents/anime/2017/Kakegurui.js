@@ -28,19 +28,35 @@ const Kakegurui = () => {
                         {/* Jabami Yumeko */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/kakegurui/JabamiYumeko.jpg" className="img-fluid" alt="Jabami Yumeko" />
+                                <img src="img/anime/2017/kakegurui/JabamiYumeko.gif" className="img-fluid" alt="Jabami Yumeko" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Jabami Yumeko</small>
                                             <br />
-                                            <a href="img/anime/2017/kakegurui/JabamiYumeko.jpg" className="glightbox preview-link">(Kakegurui)</a>
+                                            <a href="img/anime/2017/kakegurui/JabamiYumeko.gif" className="glightbox preview-link">(Kakegurui)</a>
                                         </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
+
+                        {/* Saotome Mary */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2017/kakegurui/SaotomeMary.gif" className="img-fluid" alt="Saotome Mary" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Saotome Mary</small>
+                                            <br />
+                                            <a href="img/anime/2017/kakegurui/SaotomeMary.gif" className="glightbox preview-link">(Kakegurui)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>

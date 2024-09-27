@@ -28,13 +28,13 @@ const FrierenBeyondJourneyEnd = () => {
                         {/* Frieren */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2023/frieren-beyond-journey-end/Frieren.webp" className="img-fluid" alt="Frieren" />
+                                <img src="img/anime/2023/frieren-beyond-journey-end/Frieren.gif" className="img-fluid" alt="Frieren" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Frieren</small>
                                             <br />
-                                            <a href="img/anime/2023/frieren-beyond-journey-end/Frieren.webp" className="glightbox preview-link">(Frieren Beyond Journey's End)</a>
+                                            <a href="img/anime/2023/frieren-beyond-journey-end/Frieren.gif" className="glightbox preview-link">(Frieren Beyond Journey's End)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const FrierenBeyondJourneyEnd = () => {
                         {/* Fern */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2023/frieren-beyond-journey-end/Fern.jpg" className="img-fluid" alt="Fern" />
+                                <img src="img/anime/2023/frieren-beyond-journey-end/Fern.gif" className="img-fluid" alt="Fern" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Fern</small>
                                             <br />
-                                            <a href="img/anime/2023/frieren-beyond-journey-end/Fern.jpg" className="glightbox preview-link">(Frieren Beyond Journey's End)</a>
+                                            <a href="img/anime/2023/frieren-beyond-journey-end/Fern.gif" className="glightbox preview-link">(Frieren Beyond Journey's End)</a>
                                         </h5>
                                     </div>
                                 </div>

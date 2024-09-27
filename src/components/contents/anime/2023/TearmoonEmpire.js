@@ -28,13 +28,13 @@ const TearmoonEmpire = () => {
                         {/* Mia Luna */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2023/tearmoon-empire/MiaLuna.webp" className="img-fluid" alt="Mia Luna" />
+                                <img src="img/anime/2023/tearmoon-empire/MiaLuna.gif" className="img-fluid" alt="Mia Luna" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Mia Luna</small>
                                             <br />
-                                            <a href="img/anime/2023/tearmoon-empire/MiaLuna.webp" className="glightbox preview-link">(Tearmoon Empire)</a>
+                                            <a href="img/anime/2023/tearmoon-empire/MiaLuna.gif" className="glightbox preview-link">(Tearmoon Empire)</a>
                                         </h5>
                                     </div>
                                 </div>

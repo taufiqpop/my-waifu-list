@@ -28,13 +28,13 @@ const InAnotherWorldWithMySmartphone = () => {
                         {/* Urnea Belfast Yumina */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/in-another-world-with-my-smartphone/UrneaBelfastYumina.jpg" className="img-fluid" alt="Urnea Belfast Yumina" />
+                                <img src="img/anime/2017/in-another-world-with-my-smartphone/UrneaBelfastYumina.gif" className="img-fluid" alt="Urnea Belfast Yumina" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Urnea Belfast Yumina</small>
                                             <br />
-                                            <a href="img/anime/2017/in-another-world-with-my-smartphone/UrneaBelfastYumina.jpg" className="glightbox preview-link">(In Another World With My Smartphone)</a>
+                                            <a href="img/anime/2017/in-another-world-with-my-smartphone/UrneaBelfastYumina.gif" className="glightbox preview-link">(In Another World With My Smartphone)</a>
                                         </h5>
                                     </div>
                                 </div>

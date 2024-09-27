@@ -28,13 +28,13 @@ const AlyaSometimesHidesHerFeelingsInRussian = () => {
                         {/* Masha */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Masha.jpg" className="img-fluid" alt="Masha" />
+                                <img src="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Masha.gif" className="img-fluid" alt="Masha" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Masha [Maria Mikhailovna Kujou]</small>
                                             <br />
-                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Masha.jpg" className="glightbox preview-link">(Roshidere)</a>
+                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Masha.gif" className="glightbox preview-link">(Roshidere)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const AlyaSometimesHidesHerFeelingsInRussian = () => {
                         {/* Alya */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Alya.png" className="img-fluid" alt="Alya" />
+                                <img src="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Alya.gif" className="img-fluid" alt="Alya" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Alya [Alisa Mikhailovna Kujou]</small>
                                             <br />
-                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Alya.png" className="glightbox preview-link">(Roshidere)</a>
+                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Alya.gif" className="glightbox preview-link">(Roshidere)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -60,13 +60,29 @@ const AlyaSometimesHidesHerFeelingsInRussian = () => {
                         {/* Suou Yuki */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/SuouYuki.png" className="img-fluid" alt="Suou Yuki" />
+                                <img src="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/SuouYuki.gif" className="img-fluid" alt="Suou Yuki" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Suou Yuki</small>
                                             <br />
-                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/SuouYuki.png" className="glightbox preview-link">(Roshidere)</a>
+                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/SuouYuki.gif" className="glightbox preview-link">(Roshidere)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Miyamae Nonoa */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/MiyamaeNonoa.webp" className="img-fluid" alt="Miyamae Nonoa" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Miyamae Nonoa</small>
+                                            <br />
+                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/MiyamaeNonoa.webp" className="glightbox preview-link">(Roshidere)</a>
                                         </h5>
                                     </div>
                                 </div>

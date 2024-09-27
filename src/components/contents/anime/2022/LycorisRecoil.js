@@ -28,13 +28,13 @@ const LycorisRecoil = () => {
                         {/* Nishikigi Chisato */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2022/lycoris-recoil/NishikigiChisato.jpg" className="img-fluid" alt="Nishikigi Chisato" />
+                                <img src="img/anime/2022/lycoris-recoil/NishikigiChisato.gif" className="img-fluid" alt="Nishikigi Chisato" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nishikigi Chisato</small>
                                             <br />
-                                            <a href="img/anime/2022/lycoris-recoil/NishikigiChisato.jpg" className="glightbox preview-link">(Lycoris Recoil)</a>
+                                            <a href="img/anime/2022/lycoris-recoil/NishikigiChisato.gif" className="glightbox preview-link">(Lycoris Recoil)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const LycorisRecoil = () => {
                         {/* Inoue Takina */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2022/lycoris-recoil/InoueTakina.png" className="img-fluid" alt="Inoue Takina" />
+                                <img src="img/anime/2022/lycoris-recoil/InoueTakina.gif" className="img-fluid" alt="Inoue Takina" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Inoue Takina</small>
                                             <br />
-                                            <a href="img/anime/2022/lycoris-recoil/InoueTakina.png" className="glightbox preview-link">(Lycoris Recoil)</a>
+                                            <a href="img/anime/2022/lycoris-recoil/InoueTakina.gif" className="glightbox preview-link">(Lycoris Recoil)</a>
                                         </h5>
                                     </div>
                                 </div>

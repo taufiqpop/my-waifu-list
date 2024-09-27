@@ -28,19 +28,35 @@ const AkashicRecords = () => {
                         {/* Fibel Sistine */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/akashic-records/FibelSistine.webp" className="img-fluid" alt="Fibel Sistine" />
+                                <img src="img/anime/2017/akashic-records/FibelSistine.gif" className="img-fluid" alt="Fibel Sistine" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Fibel Sistine</small>
                                             <br />
-                                            <a href="img/anime/2017/akashic-records/FibelSistine.webp" className="glightbox preview-link">(Akashic Records)</a>
+                                            <a href="img/anime/2017/akashic-records/FibelSistine.gif" className="glightbox preview-link">(Akashic Records)</a>
                                         </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
+
+                        {/* Tingel Rumia */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2017/akashic-records/TingelRumia.gif" className="img-fluid" alt="Tingel Rumia" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Tingel Rumia</small>
+                                            <br />
+                                            <a href="img/anime/2017/akashic-records/TingelRumia.gif" className="glightbox preview-link">(Akashic Records)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>

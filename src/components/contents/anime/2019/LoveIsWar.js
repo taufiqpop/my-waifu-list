@@ -28,13 +28,13 @@ const LoveIsWar = () => {
                         {/* Fujiwara Chika */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2019/love-is-war/FujiwaraChika.jpg" className="img-fluid" alt="Fujiwara Chika" />
+                                <img src="img/anime/2019/love-is-war/FujiwaraChika.gif" className="img-fluid" alt="Fujiwara Chika" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Fujiwara Chika</small>
                                             <br />
-                                            <a href="img/anime/2019/love-is-war/FujiwaraChika.jpg" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
+                                            <a href="img/anime/2019/love-is-war/FujiwaraChika.gif" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const LoveIsWar = () => {
                         {/* Hayasaka Ai */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2019/love-is-war/HayasakaAi.jpg" className="img-fluid" alt="Hayasaka Ai" />
+                                <img src="img/anime/2019/love-is-war/HayasakaAi.gif" className="img-fluid" alt="Hayasaka Ai" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Hayasaka Ai</small>
                                             <br />
-                                            <a href="img/anime/2019/love-is-war/HayasakaAi.jpg" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
+                                            <a href="img/anime/2019/love-is-war/HayasakaAi.gif" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -60,13 +60,13 @@ const LoveIsWar = () => {
                         {/* Shinomiya Kaguya */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2019/love-is-war/ShinomiyaKaguya.jpg" className="img-fluid" alt="Shinomiya Kaguya" />
+                                <img src="img/anime/2019/love-is-war/ShinomiyaKaguya.gif" className="img-fluid" alt="Shinomiya Kaguya" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Shinomiya Kaguya</small>
                                             <br />
-                                            <a href="img/anime/2019/love-is-war/ShinomiyaKaguya.jpg" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
+                                            <a href="img/anime/2019/love-is-war/ShinomiyaKaguya.gif" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -76,13 +76,13 @@ const LoveIsWar = () => {
                         {/* Iino Miko */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2019/love-is-war/IinoMiko.jpeg" className="img-fluid" alt="Iino Miko" />
+                                <img src="img/anime/2019/love-is-war/IinoMiko.gif" className="img-fluid" alt="Iino Miko" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Iino Miko</small>
                                             <br />
-                                            <a href="img/anime/2019/love-is-war/IinoMiko.jpeg" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
+                                            <a href="img/anime/2019/love-is-war/IinoMiko.gif" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
                                         </h5>
                                     </div>
                                 </div>

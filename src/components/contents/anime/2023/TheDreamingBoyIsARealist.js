@@ -28,30 +28,45 @@ const TheDreamingBoyIsARealist = () => {
                         {/* Natsukawa Aika */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2023/the-dreaming-boy-is-a-realist/NatsukawaAika.png" className="img-fluid" alt="Natsukawa Aika" />
+                                <img src="img/anime/2023/the-dreaming-boy-is-a-realist/NatsukawaAika.gif" className="img-fluid" alt="Natsukawa Aika" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Natsukawa Aika</small>
                                             <br />
-                                            <a href="img/anime/2023/the-dreaming-boy-is-a-realist/NatsukawaAika.png" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</a>
+                                            <a href="img/anime/2023/the-dreaming-boy-is-a-realist/NatsukawaAika.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</a>
                                         </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
 
                         {/* Sajou Kaede */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2023/the-dreaming-boy-is-a-realist/SajouKaede.jpg" className="img-fluid" alt="Sajou Kaede" />
+                                <img src="img/anime/2023/the-dreaming-boy-is-a-realist/SajouKaede.gif" className="img-fluid" alt="Sajou Kaede" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sajou Kaede</small>
                                             <br />
-                                            <a href="img/anime/2023/the-dreaming-boy-is-a-realist/SajouKaede.jpg" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</a>
+                                            <a href="img/anime/2023/the-dreaming-boy-is-a-realist/SajouKaede.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Ashida Kei */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2023/the-dreaming-boy-is-a-realist/AshidaKei.gif" className="img-fluid" alt="Ashida Kei" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Ashida Kei</small>
+                                            <br />
+                                            <a href="img/anime/2023/the-dreaming-boy-is-a-realist/AshidaKei.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</a>
                                         </h5>
                                     </div>
                                 </div>

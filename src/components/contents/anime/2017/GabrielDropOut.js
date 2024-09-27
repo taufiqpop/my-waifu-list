@@ -28,13 +28,13 @@ const GabrielDropOut = () => {
                         {/* Gabriel */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/gabriel-dropout/Gabriel.jpg" className="img-fluid" alt="Gabriel" />
+                                <img src="img/anime/2017/gabriel-dropout/Gabriel.gif" className="img-fluid" alt="Gabriel" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Gabriel</small>
                                             <br />
-                                            <a href="img/anime/2017/gabriel-dropout/Gabriel.jpg" className="glightbox preview-link">(Gabriel DropOut)</a>
+                                            <a href="img/anime/2017/gabriel-dropout/Gabriel.gif" className="glightbox preview-link">(Gabriel DropOut)</a>
                                         </h5>
                                     </div>
                                 </div>
