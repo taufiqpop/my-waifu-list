@@ -28,13 +28,13 @@ const WutheringWaves = () => {
                         {/* Jinhsi */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/wuthering-waves/Jinhsi.jpeg" className="img-fluid" alt="Jinhsi" />
+                                <img src="img/games/wuthering-waves/Jinhsi.gif" className="img-fluid" alt="Jinhsi" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Jinhsi</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Jinhsi.jpeg" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <a href="img/games/wuthering-waves/Jinhsi.gif" className="glightbox preview-link">(Wuthering Waves)</a>
                                         </h5>
                                     </div>
                                 </div>

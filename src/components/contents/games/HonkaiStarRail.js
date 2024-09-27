@@ -28,13 +28,13 @@ const HonkaiStarRail = () => {
                         {/* Firefly */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/honkai-star-rail/Firefly.jpeg" className="img-fluid" alt="Firefly" />
+                                <img src="img/games/honkai-star-rail/Firefly.webp" className="img-fluid" alt="Firefly" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Firefly</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Firefly.jpeg" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <a href="img/games/honkai-star-rail/Firefly.webp" className="glightbox preview-link">(Honkai Star Rail)</a>
                                         </h5>
                                     </div>
                                 </div>

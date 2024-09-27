@@ -66,13 +66,13 @@ const Home = () => {
                         {/* Mualani */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Mualani.webp" className="img-fluid" alt="Mualani" />
+                                <img src="img/games/genshin-impact/Mualani.gif" className="img-fluid" alt="Mualani" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Mualani</small>
                                             <br />
-                                            <a href="img/games/genshin-impact/Mualani.webp" className="glightbox preview-link">(Genshin Impact)</a>
+                                            <a href="img/games/genshin-impact/Mualani.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -146,13 +146,13 @@ const Home = () => {
                         {/* Sangonomiya Kokomi */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/SangonomiyaKokomi.jpg" className="img-fluid" alt="Sangonomiya Kokomi" />
+                                <img src="img/games/genshin-impact/SangonomiyaKokomi.gif" className="img-fluid" alt="Sangonomiya Kokomi" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sangonomiya Kokomi</small>
                                             <br />
-                                            <a href="img/games/genshin-impact/SangonomiyaKokomi.jpg" className="glightbox preview-link">(Genshin Impact)</a>
+                                            <a href="img/games/genshin-impact/SangonomiyaKokomi.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -162,13 +162,13 @@ const Home = () => {
                         {/* Nilou */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Nilou.webp" className="img-fluid" alt="Nilou" />
+                                <img src="img/games/genshin-impact/Nilou.gif" className="img-fluid" alt="Nilou" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nilou</small>
                                             <br />
-                                            <a href="img/games/genshin-impact/Nilou.webp" className="glightbox preview-link">(Genshin Impact)</a>
+                                            <a href="img/games/genshin-impact/Nilou.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -194,13 +194,13 @@ const Home = () => {
                         {/* Firefly */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/honkai-star-rail/Firefly.jpeg" className="img-fluid" alt="Firefly" />
+                                <img src="img/games/honkai-star-rail/Firefly.webp" className="img-fluid" alt="Firefly" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Firefly</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Firefly.jpeg" className="glightbox preview-link">(Genshin Impact)</a>
+                                            <a href="img/games/honkai-star-rail/Firefly.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -258,13 +258,13 @@ const Home = () => {
                         {/* Jinhsi */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/wuthering-waves/Jinhsi.jpeg" className="img-fluid" alt="Jinhsi" />
+                                <img src="img/games/wuthering-waves/Jinhsi.gif" className="img-fluid" alt="Jinhsi" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Jinhsi</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Jinhsi.jpeg" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <a href="img/games/wuthering-waves/Jinhsi.gif" className="glightbox preview-link">(Wuthering Waves)</a>
                                         </h5>
                                     </div>
                                 </div>
