@@ -60,13 +60,13 @@ const DateALive = () => {
                         {/* Tokisaki Kurumi */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2013/date-a-live/TokisakiKurumi.webp" className="img-fluid" alt="Tokisaki Kurumi" />
+                                <img src="img/anime/2013/date-a-live/TokisakiKurumi.jpg" className="img-fluid" alt="Tokisaki Kurumi" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Tokisaki Kurumi</small>
                                             <br />
-                                            <a href="img/anime/2013/date-a-live/TokisakiKurumi.webp" className="glightbox preview-link">(Date A Live)</a>
+                                            <a href="img/anime/2013/date-a-live/TokisakiKurumi.jpg" className="glightbox preview-link">(Date A Live)</a>
                                         </h5>
                                     </div>
                                 </div>

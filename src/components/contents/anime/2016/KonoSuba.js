@@ -16,7 +16,7 @@ const KonoSuba = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">KonoSuba</span></h2>
-                            <a href='https://www.livechart.me/anime/3122' target='_blank' className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <a href='https://www.livechart.me/anime/1615' target='_blank' className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -28,13 +28,13 @@ const KonoSuba = () => {
                         {/* Megumin */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2016/konosuba/Megumin.webp" className="img-fluid" alt="Megumin" />
+                                <img src="img/anime/2016/konosuba/Megumin.jpg" className="img-fluid" alt="Megumin" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Megumin</small>
                                             <br />
-                                            <a href="img/anime/2016/konosuba/Megumin.webp" className="glightbox preview-link">(KonoSuba)</a>
+                                            <a href="img/anime/2016/konosuba/Megumin.jpg" className="glightbox preview-link">(KonoSuba)</a>
                                         </h5>
                                     </div>
                                 </div>

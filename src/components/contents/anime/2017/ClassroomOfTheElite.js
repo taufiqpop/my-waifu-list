@@ -40,6 +40,38 @@ const ClassroomOfTheElite = () => {
                                 </div>
                             </div>
                         </div>
+
+                        {/* Kushida Kikyou */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2017/classroom-of-the-elite/KushidaKikyou.jpg" className="img-fluid" alt="Kushida Kikyou" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Kushida Kikyou</small>
+                                            <br />
+                                            <a href="img/anime/2017/classroom-of-the-elite/KushidaKikyou.jpg" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Sakayanagi Arisu */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.png" className="img-fluid" alt="Sakayanagi Arisu" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Sakayanagi Arisu</small>
+                                            <br />
+                                            <a href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.png" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         
                     </div>
                 </div>
