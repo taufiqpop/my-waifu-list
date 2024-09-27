@@ -28,13 +28,13 @@ const ClassroomOfTheElite = () => {
                         {/* Ichinose Honami */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/classroom-of-the-elite/IchinoseHonami.webp" className="img-fluid" alt="Ichinose Honami" />
+                                <img src="img/anime/2017/classroom-of-the-elite/IchinoseHonami.gif" className="img-fluid" alt="Ichinose Honami" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Ichinose Honami</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/IchinoseHonami.webp" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <a href="img/anime/2017/classroom-of-the-elite/IchinoseHonami.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -44,13 +44,13 @@ const ClassroomOfTheElite = () => {
                         {/* Kushida Kikyou */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/classroom-of-the-elite/KushidaKikyou.jpg" className="img-fluid" alt="Kushida Kikyou" />
+                                <img src="img/anime/2017/classroom-of-the-elite/KushidaKikyou.gif" className="img-fluid" alt="Kushida Kikyou" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kushida Kikyou</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/KushidaKikyou.jpg" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <a href="img/anime/2017/classroom-of-the-elite/KushidaKikyou.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -60,19 +60,83 @@ const ClassroomOfTheElite = () => {
                         {/* Sakayanagi Arisu */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.png" className="img-fluid" alt="Sakayanagi Arisu" />
+                                <img src="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.gif" className="img-fluid" alt="Sakayanagi Arisu" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sakayanagi Arisu</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.png" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <a href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
                                         </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
+
+                        {/* Karuizawa Kei */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2017/classroom-of-the-elite/KaruizawaKei.gif" className="img-fluid" alt="Karuizawa Kei" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Karuizawa Kei</small>
+                                            <br />
+                                            <a href="img/anime/2017/classroom-of-the-elite/KaruizawaKei.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Shiina Hiyori */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2017/classroom-of-the-elite/ShiinaHiyori.gif" className="img-fluid" alt="Shiina Hiyori" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Shiina Hiyori</small>
+                                            <br />
+                                            <a href="img/anime/2017/classroom-of-the-elite/ShiinaHiyori.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Horikita Suzune */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2017/classroom-of-the-elite/HorikitaSuzune.gif" className="img-fluid" alt="Horikita Suzune" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Horikita Suzune</small>
+                                            <br />
+                                            <a href="img/anime/2017/classroom-of-the-elite/HorikitaSuzune.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Asahina Nazuna */}
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="gallery-item h-100">
+                                <img src="img/anime/2017/classroom-of-the-elite/AsahinaNazuna.jpeg" className="img-fluid" alt="Asahina Nazuna" />
+                                <div className="gallery-links d-flex align-items-center justify-content-center">
+                                    <div className="card-img-overlay d-flex align-items-center p-0">
+                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
+                                            <small>Asahina Nazuna</small>
+                                            <br />
+                                            <a href="img/anime/2017/classroom-of-the-elite/AsahinaNazuna.jpeg" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>

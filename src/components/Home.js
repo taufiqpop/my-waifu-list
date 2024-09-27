@@ -18,13 +18,13 @@ const Home = () => {
                         {/* Ichinose Honami */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/classroom-of-the-elite/IchinoseHonami.webp" className="img-fluid" alt="Ichinose Honami" />
+                                <img src="img/anime/2017/classroom-of-the-elite/IchinoseHonami.gif" className="img-fluid" alt="Ichinose Honami" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Ichinose Honami</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/IchinoseHonami.webp" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <a href="img/anime/2017/classroom-of-the-elite/IchinoseHonami.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -130,13 +130,13 @@ const Home = () => {
                         {/* Sakayanagi Arisu */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.png" className="img-fluid" alt="Sakayanagi Arisu" />
+                                <img src="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.gif" className="img-fluid" alt="Sakayanagi Arisu" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sakayanagi Arisu</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.png" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <a href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
                                         </h5>
                                     </div>
                                 </div>
