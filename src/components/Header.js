@@ -58,36 +58,15 @@ const Header = () => {
                         <li className="dropdown">
                         <a href="javascript:void(0)"><span>Anime</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
-                            {/* Anime 2010 */}
+                            {/* Anime <= 2014 */}
                             <li className="dropdown">
-                                <a href="javascript:void(0)"><span>&nbsp; {"<= 2010"}</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                                <a href="javascript:void(0)"><span>&nbsp; {"≤ 2014"}</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                                 <ul>
                                     <li><Link to="/anime/2010/angel-beats">Angel Beats</Link></li>
                                     <li><Link to="/anime/2010/kiss-x-sis">Kiss X Sis</Link></li>
-                                </ul>
-                            </li>
-
-                            {/* Anime 2012 */}
-                            <li className="dropdown">
-                                <a href="javascript:void(0)"><span>&nbsp; 2012</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
-                                <ul>
                                     <li><Link to="/anime/2012/sword-art-online">Sword Art Online</Link></li>
-                                </ul>
-                            </li>
-
-                            {/* Anime 2013 */}
-                            <li className="dropdown">
-                                <a href="javascript:void(0)"><span>&nbsp; 2013</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
-                                <ul>
                                     <li><Link to="/anime/2013/danganronpa">Danganronpa</Link></li>
                                     <li><Link to="/anime/2013/date-a-live">Date A Live</Link></li>
-                                </ul>
-                            </li>
-
-                            {/* Anime 2014 */}
-                            <li className="dropdown">
-                                <a href="javascript:void(0)"><span>&nbsp; 2014</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
-                                <ul>
                                     <li><Link to="/anime/2014/akame-ga-kill">Akame Ga Kill!</Link></li>
                                     <li><Link to="/anime/2014/no-game-no-life">No Game No Life</Link></li>
                                     <li><Link to="/anime/2014/trinity-seven">Trinity Seven</Link></li>
