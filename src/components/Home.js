@@ -63,16 +63,16 @@ const Home = () => {
                             </div>
                         </div>
 
-                        {/* Mualani */}
+                        {/* HuTao */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Mualani.gif" className="img-fluid" alt="Mualani" />
+                                <img src="img/games/genshin-impact/HuTao.gif" className="img-fluid" alt="HuTao" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Mualani</small>
+                                            <small>HuTao</small>
                                             <br />
-                                            <a href="img/games/genshin-impact/Mualani.gif" className="glightbox preview-link">(Genshin Impact)</a>
+                                            <a href="img/games/genshin-impact/HuTao.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
