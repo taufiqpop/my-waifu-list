@@ -159,17 +159,17 @@ const Header = () => {
                                 </ul>
                             </li>
                         </ul>
-                    </li>
-                    <li className="dropdown">
-                        <a href="javascript:void(0)"><span>Games</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
-                        <ul>
-                            <li><Link to="/games/genshin-impact">Genshin Impact</Link></li>
-                            <li><Link to="/games/honkai-star-rail">Honkai Star Rail</Link></li>
-                            <li><Link to="/games/wuthering-waves">Wuthering Waves</Link></li>
-                        </ul>
-                    </li>
-                </ul>
-                <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
+                        </li>
+                        <li className="dropdown">
+                            <a href="javascript:void(0)"><span>Games</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                            <ul>
+                                <li><Link to="/games/genshin-impact">Genshin Impact</Link></li>
+                                <li><Link to="/games/honkai-star-rail">Honkai Star Rail</Link></li>
+                                <li><Link to="/games/wuthering-waves">Wuthering Waves</Link></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
                 </nav>
             </div>
         </header>
