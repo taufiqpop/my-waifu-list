@@ -255,16 +255,16 @@ const Home = () => {
                             </div>
                         </div>
 
-                        {/* Jinhsi */}
+                        {/* Hoshino Ruby */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
-                                <img src="img/games/wuthering-waves/Jinhsi.gif" className="img-fluid" alt="Jinhsi" />
+                                <img src="img/anime/2023/oshi-no-ko/HoshinoRuby.gif" className="img-fluid" alt="Hoshino Ruby" />
                                 <div className="gallery-links d-flex align-items-center justify-content-center">
                                     <div className="card-img-overlay d-flex align-items-center p-0">
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Jinhsi</small>
+                                            <small>Hoshino Ruby</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Jinhsi.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <a href="img/anime/2023/oshi-no-ko/HoshinoRuby.gif" className="glightbox preview-link">(Oshi No Ko)</a>
                                         </h5>
                                     </div>
                                 </div>
