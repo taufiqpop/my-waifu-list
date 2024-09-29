@@ -91,9 +91,12 @@ const Header = () => {
                     </audio>
 
                     {/* Audio Toggle Button */}
+                    <center>
+
                     <button className="btn btn-dark d-flex align-items-center" onClick={toggleAudio}>
                         <i className={`bi ${isPlaying ? 'bi-pause-fill' : 'bi-play-fill'}`}></i>
                     </button>
+                    </center>
                 </li>
 
                 <li><Link to="/" className="active">Home</Link></li>
@@ -104,11 +107,16 @@ const Header = () => {
                     <li className="dropdown">
                         <a href="javascript:void(0)"><span>&nbsp; {"≤ 2014"}</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
+                            <li><Link to="/anime/1996/detective-conan">Detective Conan</Link></li>
                             <li><Link to="/anime/2010/angel-beats">Angel Beats</Link></li>
                             <li><Link to="/anime/2010/kiss-x-sis">Kiss X Sis</Link></li>
+                            <li><Link to="/anime/2010/hyakka-ryouran">Hyakka Ryouran</Link></li>
+                            <li><Link to="/anime/2011/infinite-stratos">Infinite Stratos</Link></li>
                             <li><Link to="/anime/2012/sword-art-online">Sword Art Online</Link></li>
+                            <li><Link to="/anime/2012/high-school-dxd">High School DxD</Link></li>
                             <li><Link to="/anime/2013/danganronpa">Danganronpa</Link></li>
                             <li><Link to="/anime/2013/date-a-live">Date A Live</Link></li>
+                            <li><Link to="/anime/2013/my-teen-romantic-comedy">My Teen Romantic Comedy</Link></li>
                             <li><Link to="/anime/2014/akame-ga-kill">Akame Ga Kill!</Link></li>
                             <li><Link to="/anime/2014/no-game-no-life">No Game No Life</Link></li>
                             <li><Link to="/anime/2014/trinity-seven">Trinity Seven</Link></li>
@@ -119,9 +127,11 @@ const Header = () => {
                     <li className="dropdown">
                         <a href="javascript:void(0)"><span>&nbsp; 2015</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
+                            <li><Link to="/anime/2015/assassination-classroom">Assassination Classroom</Link></li>
                             <li><Link to="/anime/2015/charlotte">Charlotte</Link></li>
                             <li><Link to="/anime/2015/shokugeki-no-souma">Shokugeki No Souma</Link></li>
                             <li><Link to="/anime/2015/himouto-umaru-chan">Himouto! Umaru-chan</Link></li>
+                            <li><Link to="/anime/2015/rakudai-kishi-no-cavalry">Rakudai Kishi No Cavalry</Link></li>
                             <li><Link to="/anime/2015/the-testament-of-sister-new-devil">The Testament Of Sister New Devil</Link></li>
                         </ul>
                     </li>
@@ -131,6 +141,7 @@ const Header = () => {
                         <a href="javascript:void(0)"><span>&nbsp; 2016</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
                             <li><Link to="/anime/2016/konosuba">KonoSuba</Link></li>
+                            <li><Link to="/anime/2016/my-hero-academia">My Hero Academia</Link></li>
                         </ul>
                     </li>
 
@@ -153,6 +164,7 @@ const Header = () => {
                         <a href="javascript:void(0)"><span>&nbsp; 2018</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
                             <li><Link to="/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai">Seishun Buta Yarou</Link></li>
+                            <li><Link to="/anime/2018/goblin-slayer">Goblin Slayer</Link></li>
                         </ul>
                     </li>
                     
@@ -161,6 +173,8 @@ const Header = () => {
                         <a href="javascript:void(0)"><span>&nbsp; 2019</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
                             <li><Link to="/anime/2019/love-is-war">Kaguya-Sama : Love Is War</Link></li>
+                            <li><Link to="/anime/2019/demon-slayer">Demon Slayer</Link></li>
+                            <li><Link to="/anime/2019/that-time-i-reincarnated-as-a-slime">Tensura</Link></li>
                         </ul>
                     </li>
                     

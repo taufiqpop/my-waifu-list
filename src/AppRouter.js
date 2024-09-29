@@ -7,16 +7,25 @@ import GenshinImpact from './components/contents/games/GenshinImpact';
 import HonkaiStarRail from './components/contents/games/HonkaiStarRail';
 import WutheringWaves from './components/contents/games/WutheringWaves';
 
+// Anime 1996
+import DetectiveConan from './components/contents/anime/1996/DetectiveConan';
+
 // Anime 2010
 import AngelBeats from './components/contents/anime/2010/AngelBeats';
+import HyakkaRyouran from './components/contents/anime/2010/HyakkaRyouran';
 import KissXSis from './components/contents/anime/2010/KissXSis';
 
+// Anime 2011
+import InfiniteStratos from './components/contents/anime/2011/InfiniteStratos';
+
 // Anime 2012
+import HighSchoolDxD from './components/contents/anime/2012/HighSchoolDxD';
 import SwordArtOnline from './components/contents/anime/2012/SwordArtOnline';
 
 // Anime 2013
 import Danganronpa from './components/contents/anime/2013/Danganronpa';
 import DateALive from './components/contents/anime/2013/DateALive';
+import MyTeenRomanticComedy from './components/contents/anime/2013/MyTeenRomanticComedy';
 
 // Anime 2014
 import AkameGaKill from './components/contents/anime/2014/AkameGaKill';
@@ -24,13 +33,16 @@ import NoGameNoLife from './components/contents/anime/2014/NoGameNoLife';
 import TrinitySeven from './components/contents/anime/2014/TrinitySeven';
 
 // Anime 2015
+import AssassinationClassroom from './components/contents/anime/2015/AssassinationClassroom';
 import Charlotte from './components/contents/anime/2015/Charlotte';
 import ShokugekiNoSouma from './components/contents/anime/2015/ShokugekiNoSouma';
 import HimoutoUmaruChan from './components/contents/anime/2015/HimoutoUmaruChan';
+import RakudaiKishiNoCavalry from './components/contents/anime/2015/RakudaiKishiNoCavalry';
 import TheTestamentOfSisterNewDevil from './components/contents/anime/2015/TheTestamentOfSisterNewDevil';
 
 // Anime 2016
 import KonoSuba from './components/contents/anime/2016/KonoSuba';
+import MyHeroAcademia from './components/contents/anime/2016/MyHeroAcademia';
 
 // Anime 2017
 import AkashicRecords from './components/contents/anime/2017/AkashicRecords';
@@ -43,9 +55,12 @@ import MasamuneRevenge from './components/contents/anime/2017/MasamuneRevenge';
 
 // Anime 2018
 import RascalDoesNotDreamOfBunnyGirlSenpai from './components/contents/anime/2018/RascalDoesNotDreamOfBunnyGirlSenpai';
+import GoblinSlayer from './components/contents/anime/2018/GoblinSlayer';
 
 // Anime 2019
+import DemonSlayer from './components/contents/anime/2019/DemonSlayer';
 import LoveIsWar from './components/contents/anime/2019/LoveIsWar';
+import ThatTimeIReincarnatedAsASlime from './components/contents/anime/2019/ThatTimeIReincarnatedAsASlime';
 
 // Anime 2021
 import RedoOfHealer from './components/contents/anime/2021/RedoOfHealer';
@@ -74,16 +89,25 @@ const AppRouter = () => {
             <Route path="/games/honkai-star-rail" element={<HonkaiStarRail />} />
             <Route path="/games/wuthering-waves" element={<WutheringWaves />} />
 
+            {/* Anime 1996 */}
+            <Route path="/anime/1996/detective-conan" element={<DetectiveConan />} />
+
             {/* Anime 2010 */}
             <Route path="/anime/2010/angel-beats" element={<AngelBeats />} />
+            <Route path="/anime/2010/hyakka-ryouran" element={<HyakkaRyouran />} />
             <Route path="/anime/2010/kiss-x-sis" element={<KissXSis />} />
+
+            {/* Anime 2011 */}
+            <Route path="/anime/2011/infinite-stratos" element={<InfiniteStratos />} />
 
             {/* Anime 2012 */}
             <Route path="/anime/2012/sword-art-online" element={<SwordArtOnline />} />
+            <Route path="/anime/2012/high-school-dxd" element={<HighSchoolDxD />} />
 
             {/* Anime 2013 */}
             <Route path="/anime/2013/danganronpa" element={<Danganronpa />} />
             <Route path="/anime/2013/date-a-live" element={<DateALive />} />
+            <Route path="/anime/2013/my-teen-romantic-comedy" element={<MyTeenRomanticComedy />} />
 
             {/* Anime 2014 */}
             <Route path="/anime/2014/akame-ga-kill" element={<AkameGaKill />} />
@@ -91,13 +115,16 @@ const AppRouter = () => {
             <Route path="/anime/2014/trinity-seven" element={<TrinitySeven />} />
 
             {/* Anime 2015 */}
+            <Route path="/anime/2015/assassination-classroom" element={<AssassinationClassroom />} />
             <Route path="/anime/2015/charlotte" element={<Charlotte />} />
             <Route path="/anime/2015/shokugeki-no-souma" element={<ShokugekiNoSouma />} />
             <Route path="/anime/2015/himouto-umaru-chan" element={<HimoutoUmaruChan />} />
+            <Route path="/anime/2015/rakudai-kishi-no-cavalry" element={<RakudaiKishiNoCavalry />} />
             <Route path="/anime/2015/the-testament-of-sister-new-devil" element={<TheTestamentOfSisterNewDevil />} />
 
             {/* Anime 2016 */}
             <Route path="/anime/2016/konosuba" element={<KonoSuba />} />
+            <Route path="/anime/2016/my-hero-academia" element={<MyHeroAcademia />} />
 
             {/* Anime 2017 */}
             <Route path="/anime/2017/akashic-records" element={<AkashicRecords />} />
@@ -110,9 +137,12 @@ const AppRouter = () => {
 
             {/* Anime 2018 */}
             <Route path="/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai" element={<RascalDoesNotDreamOfBunnyGirlSenpai />} />
+            <Route path="/anime/2018/goblin-slayer" element={<GoblinSlayer />} />
 
             {/* Anime 2019 */}
+            <Route path="/anime/2019/demon-slayer" element={<DemonSlayer />} />
             <Route path="/anime/2019/love-is-war" element={<LoveIsWar />} />
+            <Route path="/anime/2019/that-time-i-reincarnated-as-a-slime" element={<ThatTimeIReincarnatedAsASlime />} />
 
             {/* Anime 2021 */}
             <Route path="/anime/2021/redo-of-healer" element={<RedoOfHealer />} />
