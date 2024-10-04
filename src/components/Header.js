@@ -174,7 +174,7 @@ const Header = () => {
                         <ul>
                             <li><Link to="/anime/2019/love-is-war">Kaguya-Sama : Love Is War</Link></li>
                             <li><Link to="/anime/2019/demon-slayer">Demon Slayer</Link></li>
-                            <li><Link to="/anime/2019/that-time-i-reincarnated-as-a-slime">Tensura</Link></li>
+                            <li><Link to="/anime/2019/that-time-i-got-reincarnated-as-a-slime">Tensura</Link></li>
                         </ul>
                     </li>
                     

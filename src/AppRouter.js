@@ -142,7 +142,7 @@ const AppRouter = () => {
             {/* Anime 2019 */}
             <Route path="/anime/2019/demon-slayer" element={<DemonSlayer />} />
             <Route path="/anime/2019/love-is-war" element={<LoveIsWar />} />
-            <Route path="/anime/2019/that-time-i-reincarnated-as-a-slime" element={<ThatTimeIReincarnatedAsASlime />} />
+            <Route path="/anime/2019/that-time-i-got-reincarnated-as-a-slime" element={<ThatTimeIReincarnatedAsASlime />} />
 
             {/* Anime 2021 */}
             <Route path="/anime/2021/redo-of-healer" element={<RedoOfHealer />} />
