@@ -78,6 +78,7 @@ import TheDreamingBoyIsARealist from './components/contents/anime/2023/TheDreami
 
 // Anime 2024
 import AlyaSometimesHidesHerFeelingsInRussian from './components/contents/anime/2024/AlyaSometimesHidesHerFeelingsInRussian';
+import BlueArchiveTheAnimation from './components/contents/anime/2024/BlueArchiveTheAnimation';
 
 const AppRouter = () => {
     return (
@@ -160,6 +161,7 @@ const AppRouter = () => {
 
             {/* Anime 2024 */}
             <Route path="/anime/2024/alya-sometimes-hides-her-feelings-in-russian" element={<AlyaSometimesHidesHerFeelingsInRussian />} />
+            <Route path="/anime/2024/blue-archive-the-animation" element={<BlueArchiveTheAnimation />} />
         </Routes>
     );
 };

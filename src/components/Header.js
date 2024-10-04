@@ -212,6 +212,7 @@ const Header = () => {
                         <a href="javascript:void(0)"><span>&nbsp; 2024</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
                             <li><Link to="/anime/2024/alya-sometimes-hides-her-feelings-in-russian">Roshidere</Link></li>
+                            <li><Link to="/anime/2024/blue-archive-the-animation">Blue Archive The Animation</Link></li>
                         </ul>
                     </li>
                 </ul>
