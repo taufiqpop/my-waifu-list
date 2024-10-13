@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-waifu-list/static/css/main.b1728d95.css",
-    "main.js": "/my-waifu-list/static/js/main.d2b90557.js",
+    "main.js": "/my-waifu-list/static/js/main.b4f61af3.js",
     "index.html": "/my-waifu-list/index.html",
     "main.b1728d95.css.map": "/my-waifu-list/static/css/main.b1728d95.css.map",
-    "main.d2b90557.js.map": "/my-waifu-list/static/js/main.d2b90557.js.map"
+    "main.b4f61af3.js.map": "/my-waifu-list/static/js/main.b4f61af3.js.map"
   },
   "entrypoints": [
     "static/css/main.b1728d95.css",
-    "static/js/main.d2b90557.js"
+    "static/js/main.b4f61af3.js"
   ]
 }
