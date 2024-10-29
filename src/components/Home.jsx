@@ -143,22 +143,6 @@ const Home = () => {
                             </div>
                         </div>
 
-                        {/* Sangonomiya Kokomi */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/SangonomiyaKokomi.gif" className="img-fluid" alt="Sangonomiya Kokomi" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Sangonomiya Kokomi</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/SangonomiyaKokomi.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
                         {/* Nilou */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
@@ -191,22 +175,6 @@ const Home = () => {
                             </div>
                         </div>
 
-                        {/* Firefly */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/honkai-star-rail/Firefly.webp" className="img-fluid" alt="Firefly" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Firefly</small>
-                                            <br />
-                                            <a href="img/games/honkai-star-rail/Firefly.webp" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
                         {/* Itsuka Kotori */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
@@ -233,38 +201,6 @@ const Home = () => {
                                             <small>Migurdia Roxy</small>
                                             <br />
                                             <a href="img/anime/2021/mushoku-tensei/MigurdiaRoxy.gif" className="glightbox preview-link">(Mushoku Tensei)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Fujiwara Chika */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/anime/2019/love-is-war/FujiwaraChika.gif" className="img-fluid" alt="Fujiwara Chika" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Fujiwara Chika</small>
-                                            <br />
-                                            <a href="img/anime/2019/love-is-war/FujiwaraChika.gif" className="glightbox preview-link">(Kaguya-sama : Love Is War)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Hoshino Ruby */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/anime/2023/oshi-no-ko/HoshinoRuby.gif" className="img-fluid" alt="Hoshino Ruby" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Hoshino Ruby</small>
-                                            <br />
-                                            <a href="img/anime/2023/oshi-no-ko/HoshinoRuby.gif" className="glightbox preview-link">(Oshi No Ko)</a>
                                         </h5>
                                     </div>
                                 </div>
