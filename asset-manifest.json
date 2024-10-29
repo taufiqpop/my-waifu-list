@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-waifu-list/static/css/main.b1728d95.css",
+    "main.js": "/my-waifu-list/static/js/main.7400653c.js",
+    "index.html": "/my-waifu-list/index.html",
+    "main.b1728d95.css.map": "/my-waifu-list/static/css/main.b1728d95.css.map",
+    "main.7400653c.js.map": "/my-waifu-list/static/js/main.7400653c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1728d95.css",
+    "static/js/main.7400653c.js"
+  ]
+}
