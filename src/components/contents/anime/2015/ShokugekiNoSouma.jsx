@@ -16,7 +16,7 @@ const ShokugekiNoSouma = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Shokugeki No Souma</span></h2>
-                            <a href='https://www.livechart.me/anime/1275' target='_blank' className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <a href='https://www.livechart.me/anime/1275' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>

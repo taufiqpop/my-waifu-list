@@ -16,7 +16,7 @@ const WutheringWaves = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Wuthering Waves</span></h2>
-                            <a href='https://wutheringwaves.kurogames.com/en/main/' target='_blank' className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></a>
+                            <a href='https://wutheringwaves.kurogames.com/en/main/' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></a>
                         </div>
                     </div>
                 </div>

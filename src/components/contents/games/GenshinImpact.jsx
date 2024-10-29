@@ -16,7 +16,7 @@ const GenshinImpact = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Genshin Impact</span></h2>
-                            <a href='https://genshin.hoyoverse.com/en/home' target='_blank' className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <a href='https://genshin.hoyoverse.com/en/home' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
