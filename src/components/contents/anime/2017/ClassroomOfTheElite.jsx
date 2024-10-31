@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const ClassroomOfTheElite = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Classroom Of The Elite</span></h2>
-                            <a href='https://www.livechart.me/anime/2688' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/2688' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const ClassroomOfTheElite = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Ichinose Honami</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/IchinoseHonami.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/IchinoseHonami.gif" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const ClassroomOfTheElite = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kushida Kikyou</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/KushidaKikyou.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/KushidaKikyou.gif" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const ClassroomOfTheElite = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sakayanagi Arisu</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.gif" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const ClassroomOfTheElite = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Karuizawa Kei</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/KaruizawaKei.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/KaruizawaKei.gif" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -98,7 +99,7 @@ const ClassroomOfTheElite = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Shiina Hiyori</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/ShiinaHiyori.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/ShiinaHiyori.gif" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -114,7 +115,7 @@ const ClassroomOfTheElite = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Horikita Suzune</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/HorikitaSuzune.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/HorikitaSuzune.gif" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -130,7 +131,7 @@ const ClassroomOfTheElite = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Asahina Nazuna</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/AsahinaNazuna.jpeg" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/AsahinaNazuna.jpeg" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>

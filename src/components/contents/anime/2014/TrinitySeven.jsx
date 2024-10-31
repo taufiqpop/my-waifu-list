@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const TrinitySeven = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Trinity Seven</span></h2>
-                            <a href='https://www.livechart.me/anime/441' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/441' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const TrinitySeven = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Asami Lilith</small>
                                             <br />
-                                            <a href="img/anime/2014/trinity-seven/AsamiLilith.gif" className="glightbox preview-link">(Trinity Seven)</a>
+                                            <Link href="img/anime/2014/trinity-seven/AsamiLilith.gif" className="glightbox preview-link">(Trinity Seven)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const TrinitySeven = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kurata Yui</small>
                                             <br />
-                                            <a href="img/anime/2014/trinity-seven/KurataYui.gif" className="glightbox preview-link">(Trinity Seven)</a>
+                                            <Link href="img/anime/2014/trinity-seven/KurataYui.gif" className="glightbox preview-link">(Trinity Seven)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const TrinitySeven = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sherlock Lieselotte</small>
                                             <br />
-                                            <a href="img/anime/2014/trinity-seven/SherlockLieselotte.gif" className="glightbox preview-link">(Trinity Seven)</a>
+                                            <Link href="img/anime/2014/trinity-seven/SherlockLieselotte.gif" className="glightbox preview-link">(Trinity Seven)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const TrinitySeven = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sherlock Selina</small>
                                             <br />
-                                            <a href="img/anime/2014/trinity-seven/SherlockSelina.gif" className="glightbox preview-link">(Trinity Seven)</a>
+                                            <Link href="img/anime/2014/trinity-seven/SherlockSelina.gif" className="glightbox preview-link">(Trinity Seven)</Link>
                                         </h5>
                                     </div>
                                 </div>

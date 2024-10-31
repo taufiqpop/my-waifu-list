@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const AlyaSometimesHidesHerFeelingsInRussian = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Alya Sometimes Hides Her Feelings In Russian (Roshidere)</span></h2>
-                            <a href='https://www.livechart.me/anime/11873' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/11873' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const AlyaSometimesHidesHerFeelingsInRussian = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Masha [Maria Mikhailovna Kujou]</small>
                                             <br />
-                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Masha.gif" className="glightbox preview-link">(Roshidere)</a>
+                                            <Link href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Masha.gif" className="glightbox preview-link">(Roshidere)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const AlyaSometimesHidesHerFeelingsInRussian = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Alya [Alisa Mikhailovna Kujou]</small>
                                             <br />
-                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Alya.gif" className="glightbox preview-link">(Roshidere)</a>
+                                            <Link href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Alya.gif" className="glightbox preview-link">(Roshidere)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const AlyaSometimesHidesHerFeelingsInRussian = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Suou Yuki</small>
                                             <br />
-                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/SuouYuki.gif" className="glightbox preview-link">(Roshidere)</a>
+                                            <Link href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/SuouYuki.gif" className="glightbox preview-link">(Roshidere)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const AlyaSometimesHidesHerFeelingsInRussian = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Miyamae Nonoa</small>
                                             <br />
-                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/MiyamaeNonoa.webp" className="glightbox preview-link">(Roshidere)</a>
+                                            <Link href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/MiyamaeNonoa.webp" className="glightbox preview-link">(Roshidere)</Link>
                                         </h5>
                                     </div>
                                 </div>

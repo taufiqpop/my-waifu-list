@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const WutheringWaves = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Wuthering Waves</span></h2>
-                            <a href='https://wutheringwaves.kurogames.com/en/main/' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></a>
+                            <Link href='https://wutheringwaves.kurogames.com/en/main/' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Jinhsi</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Jinhsi.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Jinhsi.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Shorekeeper</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Shorekeeper.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Shorekeeper.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Baizhi</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Baizhi.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Baizhi.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Danjin</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Danjin.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Danjin.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -98,7 +99,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sanhua</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Sanhua.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Sanhua.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -114,7 +115,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yangyang</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Yangyang.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Yangyang.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -130,7 +131,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Encore</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Encore.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Encore.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -146,7 +147,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Rover</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Rover.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Rover.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -162,7 +163,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Camellya</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Camellya.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Camellya.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -178,7 +179,7 @@ const WutheringWaves = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Jianxin</small>
                                             <br />
-                                            <a href="img/games/wuthering-waves/Jianxin.gif" className="glightbox preview-link">(Wuthering Waves)</a>
+                                            <Link href="img/games/wuthering-waves/Jianxin.gif" className="glightbox preview-link">(Wuthering Waves)</Link>
                                         </h5>
                                     </div>
                                 </div>

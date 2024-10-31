@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const HyakkaRyouran = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Hyakka Ryouran</span></h2>
-                            <a href='https://www.livechart.me/anime/3694' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/3694' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const HyakkaRyouran = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yagyuu Juubei</small>
                                             <br />
-                                            <a href="img/anime/2010/hyakka-ryouran/YagyuuJuubei.gif" className="glightbox preview-link">(Hyakka Ryouran)</a>
+                                            <Link href="img/anime/2010/hyakka-ryouran/YagyuuJuubei.gif" className="glightbox preview-link">(Hyakka Ryouran)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const HyakkaRyouran = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Maeda Keiji</small>
                                             <br />
-                                            <a href="img/anime/2010/hyakka-ryouran/MaedaKeiji.gif" className="glightbox preview-link">(Hyakka Ryouran)</a>
+                                            <Link href="img/anime/2010/hyakka-ryouran/MaedaKeiji.gif" className="glightbox preview-link">(Hyakka Ryouran)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const HyakkaRyouran = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Naoe Kanetsugu</small>
                                             <br />
-                                            <a href="img/anime/2010/hyakka-ryouran/NaoeKanetsugu.gif" className="glightbox preview-link">(Hyakka Ryouran)</a>
+                                            <Link href="img/anime/2010/hyakka-ryouran/NaoeKanetsugu.gif" className="glightbox preview-link">(Hyakka Ryouran)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const HyakkaRyouran = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Tokugawa Sen</small>
                                             <br />
-                                            <a href="img/anime/2010/hyakka-ryouran/TokugawaSen.gif" className="glightbox preview-link">(Hyakka Ryouran)</a>
+                                            <Link href="img/anime/2010/hyakka-ryouran/TokugawaSen.gif" className="glightbox preview-link">(Hyakka Ryouran)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -98,7 +99,7 @@ const HyakkaRyouran = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sanada Yukimura</small>
                                             <br />
-                                            <a href="img/anime/2010/hyakka-ryouran/SanadaYukimura.gif" className="glightbox preview-link">(Hyakka Ryouran)</a>
+                                            <Link href="img/anime/2010/hyakka-ryouran/SanadaYukimura.gif" className="glightbox preview-link">(Hyakka Ryouran)</Link>
                                         </h5>
                                     </div>
                                 </div>

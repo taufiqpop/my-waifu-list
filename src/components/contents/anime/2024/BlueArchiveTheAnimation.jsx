@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const BlueArchiveTheAnimation = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Blue Archive The Animation</span></h2>
-                            <a href='https://www.livechart.me/anime/11798' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/11798' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const BlueArchiveTheAnimation = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sunaookami Shiroko</small>
                                             <br />
-                                            <a href="img/anime/2024/blue-archive-the-animation/SunaookamiShiroko.gif" className="glightbox preview-link">(Blue Archive)</a>
+                                            <Link href="img/anime/2024/blue-archive-the-animation/SunaookamiShiroko.gif" className="glightbox preview-link">(Blue Archive)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const BlueArchiveTheAnimation = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Takanashi Hoshino</small>
                                             <br />
-                                            <a href="img/anime/2024/blue-archive-the-animation/TakanashiHoshino.gif" className="glightbox preview-link">(Blue Archive)</a>
+                                            <Link href="img/anime/2024/blue-archive-the-animation/TakanashiHoshino.gif" className="glightbox preview-link">(Blue Archive)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const BlueArchiveTheAnimation = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Izayoi Nonomi</small>
                                             <br />
-                                            <a href="img/anime/2024/blue-archive-the-animation/IzayoiNonomi.gif" className="glightbox preview-link">(Blue Archive)</a>
+                                            <Link href="img/anime/2024/blue-archive-the-animation/IzayoiNonomi.gif" className="glightbox preview-link">(Blue Archive)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const BlueArchiveTheAnimation = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kuromi Serika</small>
                                             <br />
-                                            <a href="img/anime/2024/blue-archive-the-animation/KuromiSerika.gif" className="glightbox preview-link">(Blue Archive)</a>
+                                            <Link href="img/anime/2024/blue-archive-the-animation/KuromiSerika.gif" className="glightbox preview-link">(Blue Archive)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -98,7 +99,7 @@ const BlueArchiveTheAnimation = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Okusora Ayane</small>
                                             <br />
-                                            <a href="img/anime/2024/blue-archive-the-animation/OkusoraAyane.gif" className="glightbox preview-link">(Blue Archive)</a>
+                                            <Link href="img/anime/2024/blue-archive-the-animation/OkusoraAyane.gif" className="glightbox preview-link">(Blue Archive)</Link>
                                         </h5>
                                     </div>
                                 </div>

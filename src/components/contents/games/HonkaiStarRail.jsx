@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const HonkaiStarRail = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Honkai Star Rail</span></h2>
-                            <a href='https://hsr.hoyoverse.com/en-us/home' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></a>
+                            <Link href='https://hsr.hoyoverse.com/en-us/home' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Firefly</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Firefly.webp" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Firefly.webp" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Silver Wolf</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/SilverWolf.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/SilverWolf.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Fu Xuan</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/FuXuan.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/FuXuan.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sparkle</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Sparkle.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Sparkle.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -98,7 +99,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>March 7th</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/March7th.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/March7th.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -114,7 +115,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Stelle</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Stelle.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Stelle.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -130,7 +131,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Acheron</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Acheron.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Acheron.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -146,7 +147,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Lynx</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Lynx.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Lynx.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -162,7 +163,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Ruan Mei</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/RuanMei.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/RuanMei.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -178,7 +179,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Bronya</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Bronya.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Bronya.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -194,7 +195,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Seele</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Seele.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Seele.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -210,7 +211,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Topaz</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Topaz.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Topaz.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -226,7 +227,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Jingliu</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Jingliu.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Jingliu.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -242,7 +243,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Clara</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Clara.webp" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Clara.webp" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -258,7 +259,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>HuoHuo</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/HuoHuo.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/HuoHuo.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -274,7 +275,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Robin</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Robin.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Robin.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -290,7 +291,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yunli</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Yunli.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Yunli.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -306,7 +307,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Qingque</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Qingque.webp" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Qingque.webp" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -322,7 +323,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Lingsha</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Lingsha.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Lingsha.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -338,7 +339,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Guinaifen</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Guinaifen.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Guinaifen.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -354,7 +355,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sushang</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Sushang.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Sushang.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -370,7 +371,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Tingyun</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Tingyun.webp" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Tingyun.webp" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -386,7 +387,7 @@ const HonkaiStarRail = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Herta</small>
                                             <br />
-                                            <a href="img/games/honkai-star-rail/Herta.gif" className="glightbox preview-link">(Honkai Star Rail)</a>
+                                            <Link href="img/games/honkai-star-rail/Herta.gif" className="glightbox preview-link">(Honkai Star Rail)</Link>
                                         </h5>
                                     </div>
                                 </div>

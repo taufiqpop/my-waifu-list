@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const ShokugekiNoSouma = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Shokugeki No Souma</span></h2>
-                            <a href='https://www.livechart.me/anime/1275' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/1275' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const ShokugekiNoSouma = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Tadokoro Megumi</small>
                                             <br />
-                                            <a href="img/anime/2015/shokugeki-no-souma/TadokoroMegumi.gif" className="glightbox preview-link">(Shokugeki No Souma)</a>
+                                            <Link href="img/anime/2015/shokugeki-no-souma/TadokoroMegumi.gif" className="glightbox preview-link">(Shokugeki No Souma)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const ShokugekiNoSouma = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nakiri Erina</small>
                                             <br />
-                                            <a href="img/anime/2015/shokugeki-no-souma/NakiriErina.gif" className="glightbox preview-link">(Shokugeki No Souma)</a>
+                                            <Link href="img/anime/2015/shokugeki-no-souma/NakiriErina.gif" className="glightbox preview-link">(Shokugeki No Souma)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const ShokugekiNoSouma = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nakiri Alice</small>
                                             <br />
-                                            <a href="img/anime/2015/shokugeki-no-souma/NakiriAlice.webp" className="glightbox preview-link">(Shokugeki No Souma)</a>
+                                            <Link href="img/anime/2015/shokugeki-no-souma/NakiriAlice.webp" className="glightbox preview-link">(Shokugeki No Souma)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const ShokugekiNoSouma = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Arato Hisako</small>
                                             <br />
-                                            <a href="img/anime/2015/shokugeki-no-souma/AratoHisako.gif" className="glightbox preview-link">(Shokugeki No Souma)</a>
+                                            <Link href="img/anime/2015/shokugeki-no-souma/AratoHisako.gif" className="glightbox preview-link">(Shokugeki No Souma)</Link>
                                         </h5>
                                     </div>
                                 </div>

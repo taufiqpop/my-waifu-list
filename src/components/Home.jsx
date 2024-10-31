@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -24,7 +25,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Ichinose Honami</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/IchinoseHonami.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/IchinoseHonami.gif" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -40,7 +41,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Masha [Maria Mikhailovna Kujou]</small>
                                             <br />
-                                            <a href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Masha.gif" className="glightbox preview-link">(Roshidere)</a>
+                                            <Link href="img/anime/2024/alya-sometimes-hides-her-feelings-in-russian/Masha.gif" className="glightbox preview-link">(Roshidere)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -56,7 +57,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nishikigi Chisato</small>
                                             <br />
-                                            <a href="img/anime/2022/lycoris-recoil/NishikigiChisato.gif" className="glightbox preview-link">(Lycoris Recoil)</a>
+                                            <Link href="img/anime/2022/lycoris-recoil/NishikigiChisato.gif" className="glightbox preview-link">(Lycoris Recoil)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -72,7 +73,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>HuTao</small>
                                             <br />
-                                            <a href="img/games/genshin-impact/HuTao.gif" className="glightbox preview-link">(Genshin Impact)</a>
+                                            <Link href="img/games/genshin-impact/HuTao.gif" className="glightbox preview-link">(Genshin Impact)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -88,7 +89,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Hoshino Ruby</small>
                                             <br />
-                                            <a href="img/anime/2023/oshi-no-ko/HoshinoRuby.gif" className="glightbox preview-link">(Oshi No Ko)</a>
+                                            <Link href="img/anime/2023/oshi-no-ko/HoshinoRuby.gif" className="glightbox preview-link">(Oshi No Ko)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -104,7 +105,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kurata Yui</small>
                                             <br />
-                                            <a href="img/anime/2014/trinity-seven/KurataYui.gif" className="glightbox preview-link">(Trinity Seven)</a>
+                                            <Link href="img/anime/2014/trinity-seven/KurataYui.gif" className="glightbox preview-link">(Trinity Seven)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -120,7 +121,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Inoue Takina</small>
                                             <br />
-                                            <a href="img/anime/2022/lycoris-recoil/InoueTakina.gif" className="glightbox preview-link">(Lycoris Recoil)</a>
+                                            <Link href="img/anime/2022/lycoris-recoil/InoueTakina.gif" className="glightbox preview-link">(Lycoris Recoil)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -136,7 +137,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sakayanagi Arisu</small>
                                             <br />
-                                            <a href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.gif" className="glightbox preview-link">(Classroom Of The Elite)</a>
+                                            <Link href="img/anime/2017/classroom-of-the-elite/SakayanagiArisu.gif" className="glightbox preview-link">(Classroom Of The Elite)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -152,7 +153,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nilou</small>
                                             <br />
-                                            <a href="img/games/genshin-impact/Nilou.gif" className="glightbox preview-link">(Genshin Impact)</a>
+                                            <Link href="img/games/genshin-impact/Nilou.gif" className="glightbox preview-link">(Genshin Impact)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -168,7 +169,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kurome</small>
                                             <br />
-                                            <a href="img/anime/2014/akame-ga-kill/Kurome.gif" className="glightbox preview-link">(Akame Ga Kill)</a>
+                                            <Link href="img/anime/2014/akame-ga-kill/Kurome.gif" className="glightbox preview-link">(Akame Ga Kill)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -184,7 +185,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Itsuka Kotori</small>
                                             <br />
-                                            <a href="img/anime/2013/date-a-live/ItsukaKotori.gif" className="glightbox preview-link">(Date A Live)</a>
+                                            <Link href="img/anime/2013/date-a-live/ItsukaKotori.gif" className="glightbox preview-link">(Date A Live)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -200,7 +201,7 @@ const Home = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Migurdia Roxy</small>
                                             <br />
-                                            <a href="img/anime/2021/mushoku-tensei/MigurdiaRoxy.gif" className="glightbox preview-link">(Mushoku Tensei)</a>
+                                            <Link href="img/anime/2021/mushoku-tensei/MigurdiaRoxy.gif" className="glightbox preview-link">(Mushoku Tensei)</Link>
                                         </h5>
                                     </div>
                                 </div>

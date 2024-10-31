@@ -101,11 +101,11 @@ const Header = () => {
 
                 <li><Link to="/" className="active">Home</Link></li>
                 <li className="dropdown">
-                <a href="javascript:void(0)"><span>Anime</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                <Link href="javascript:void(0)"><span>Anime</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                 <ul>
                     {/* Anime <= 2014 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; {"≤ 2014"}</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; {"≤ 2014"}</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/1996/detective-conan">Detective Conan</Link></li>
                             <li><Link to="/anime/2010/angel-beats">Angel Beats</Link></li>
@@ -125,7 +125,7 @@ const Header = () => {
 
                     {/* Anime 2015 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2015</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2015</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2015/assassination-classroom">Assassination Classroom</Link></li>
                             <li><Link to="/anime/2015/charlotte">Charlotte</Link></li>
@@ -138,7 +138,7 @@ const Header = () => {
 
                     {/* Anime 2016 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2016</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2016</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2016/konosuba">KonoSuba</Link></li>
                             <li><Link to="/anime/2016/my-hero-academia">My Hero Academia</Link></li>
@@ -147,7 +147,7 @@ const Header = () => {
 
                     {/* Anime 2017 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2017</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2017</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2017/akashic-records">Akashic Records</Link></li>
                             <li><Link to="/anime/2017/classroom-of-the-elite">Classroom Of The Elite</Link></li>
@@ -161,7 +161,7 @@ const Header = () => {
                     
                     {/* Anime 2018 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2018</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2018</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2018/rascal-does-not-dream-of-bunny-girl-senpai">Seishun Buta Yarou</Link></li>
                             <li><Link to="/anime/2018/goblin-slayer">Goblin Slayer</Link></li>
@@ -170,7 +170,7 @@ const Header = () => {
                     
                     {/* Anime 2019 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2019</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2019</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2019/love-is-war">Kaguya-Sama : Love Is War</Link></li>
                             <li><Link to="/anime/2019/demon-slayer">Demon Slayer</Link></li>
@@ -180,7 +180,7 @@ const Header = () => {
                     
                     {/* Anime 2021 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2021</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2021</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2021/redo-of-healer">Redo Of Healer</Link></li>
                             <li><Link to="/anime/2021/the-detective-is-already-dead">The Detective Is Already Dead</Link></li>
@@ -190,7 +190,7 @@ const Header = () => {
                     
                     {/* Anime 2022 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2022</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2022</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2022/lycoris-recoil">Lycoris Recoil</Link></li>
                         </ul>
@@ -198,7 +198,7 @@ const Header = () => {
                     
                     {/* Anime 2023 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2023</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2023</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2023/frieren-beyond-journey-end">Frieren Beyond Journey's End</Link></li>
                             <li><Link to="/anime/2023/oshi-no-ko">Oshi No Ko</Link></li>
@@ -209,7 +209,7 @@ const Header = () => {
                     
                     {/* Anime 2024 */}
                     <li className="dropdown">
-                        <a href="javascript:void(0)"><span>&nbsp; 2024</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <Link href="javascript:void(0)"><span>&nbsp; 2024</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                         <ul>
                             <li><Link to="/anime/2024/alya-sometimes-hides-her-feelings-in-russian">Roshidere</Link></li>
                             <li><Link to="/anime/2024/blue-archive-the-animation">Blue Archive The Animation</Link></li>
@@ -218,7 +218,7 @@ const Header = () => {
                 </ul>
                 </li>
                 <li className="dropdown">
-                    <a href="javascript:void(0)"><span>Games</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                    <Link href="javascript:void(0)"><span>Games</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                     <ul>
                         <li><Link to="/games/genshin-impact">Genshin Impact</Link></li>
                         <li><Link to="/games/honkai-star-rail">Honkai Star Rail</Link></li>

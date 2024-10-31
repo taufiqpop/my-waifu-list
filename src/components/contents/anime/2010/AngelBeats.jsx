@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const AngelBeats = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Angel Beats</span></h2>
-                            <a href='https://www.livechart.me/anime/3122' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/3122' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const AngelBeats = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Tachibana Kanade</small>
                                             <br />
-                                            <a href="img/anime/2010/angel-beats/TachibanaKanade.gif" className="glightbox preview-link">(Angel Beats)</a>
+                                            <Link href="img/anime/2010/angel-beats/TachibanaKanade.gif" className="glightbox preview-link">(Angel Beats)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const AngelBeats = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nakamura Yuri</small>
                                             <br />
-                                            <a href="img/anime/2010/angel-beats/NakamuraYuri.gif" className="glightbox preview-link">(Angel Beats)</a>
+                                            <Link href="img/anime/2010/angel-beats/NakamuraYuri.gif" className="glightbox preview-link">(Angel Beats)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const AngelBeats = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yui</small>
                                             <br />
-                                            <a href="img/anime/2010/angel-beats/Yui.gif" className="glightbox preview-link">(Angel Beats)</a>
+                                            <Link href="img/anime/2010/angel-beats/Yui.gif" className="glightbox preview-link">(Angel Beats)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const AngelBeats = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Iwasawa Masami</small>
                                             <br />
-                                            <a href="img/anime/2010/angel-beats/IwasawaMasami.webp" className="glightbox preview-link">(Angel Beats)</a>
+                                            <Link href="img/anime/2010/angel-beats/IwasawaMasami.webp" className="glightbox preview-link">(Angel Beats)</Link>
                                         </h5>
                                     </div>
                                 </div>

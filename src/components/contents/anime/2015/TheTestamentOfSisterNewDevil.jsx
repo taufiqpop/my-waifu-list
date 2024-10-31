@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const TheTestamentOfSisterNewDevil = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">The Testament Of Sister New Devil</span></h2>
-                            <a href='https://www.livechart.me/anime/470' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/470' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const TheTestamentOfSisterNewDevil = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Naruse Maria</small>
                                             <br />
-                                            <a href="img/anime/2015/the-testament-of-sister-new-devil/NaruseMaria.gif" className="glightbox preview-link">(The Testament Of Sister)</a>
+                                            <Link href="img/anime/2015/the-testament-of-sister-new-devil/NaruseMaria.gif" className="glightbox preview-link">(The Testament Of Sister)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const TheTestamentOfSisterNewDevil = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Naruse Mio</small>
                                             <br />
-                                            <a href="img/anime/2015/the-testament-of-sister-new-devil/NaruseMio.gif" className="glightbox preview-link">(The Testament Of Sister)</a>
+                                            <Link href="img/anime/2015/the-testament-of-sister-new-devil/NaruseMio.gif" className="glightbox preview-link">(The Testament Of Sister)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const TheTestamentOfSisterNewDevil = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nonaka Yuki</small>
                                             <br />
-                                            <a href="img/anime/2015/the-testament-of-sister-new-devil/NonakaYuki.gif" className="glightbox preview-link">(The Testament Of Sister)</a>
+                                            <Link href="img/anime/2015/the-testament-of-sister-new-devil/NonakaYuki.gif" className="glightbox preview-link">(The Testament Of Sister)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ const TheTestamentOfSisterNewDevil = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nonaka Kurumi</small>
                                             <br />
-                                            <a href="img/anime/2015/the-testament-of-sister-new-devil/NonakaKurumi.gif" className="glightbox preview-link">(The Testament Of Sister)</a>
+                                            <Link href="img/anime/2015/the-testament-of-sister-new-devil/NonakaKurumi.gif" className="glightbox preview-link">(The Testament Of Sister)</Link>
                                         </h5>
                                     </div>
                                 </div>

@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const TheDreamingBoyIsARealist = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">The Dreaming Boy Is A Realist</span></h2>
-                            <a href='https://www.livechart.me/anime/11547' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/11547' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const TheDreamingBoyIsARealist = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Natsukawa Aika</small>
                                             <br />
-                                            <a href="img/anime/2023/the-dreaming-boy-is-a-realist/NatsukawaAika.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</a>
+                                            <Link href="img/anime/2023/the-dreaming-boy-is-a-realist/NatsukawaAika.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -50,7 +51,7 @@ const TheDreamingBoyIsARealist = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sajou Kaede</small>
                                             <br />
-                                            <a href="img/anime/2023/the-dreaming-boy-is-a-realist/SajouKaede.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</a>
+                                            <Link href="img/anime/2023/the-dreaming-boy-is-a-realist/SajouKaede.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</Link>
                                         </h5>
                                     </div>
                                 </div>
@@ -66,7 +67,7 @@ const TheDreamingBoyIsARealist = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Ashida Kei</small>
                                             <br />
-                                            <a href="img/anime/2023/the-dreaming-boy-is-a-realist/AshidaKei.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</a>
+                                            <Link href="img/anime/2023/the-dreaming-boy-is-a-realist/AshidaKei.gif" className="glightbox preview-link">(The Dreaming Boy Is A Realist)</Link>
                                         </h5>
                                     </div>
                                 </div>

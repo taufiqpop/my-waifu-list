@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.css';
 
@@ -16,7 +17,7 @@ const TearmoonEmpire = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Tearmoon Empire</span></h2>
-                            <a href='https://www.livechart.me/anime/11459' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></a>
+                            <Link href='https://www.livechart.me/anime/11459' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></Link>
                         </div>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const TearmoonEmpire = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Mia Luna</small>
                                             <br />
-                                            <a href="img/anime/2023/tearmoon-empire/MiaLuna.gif" className="glightbox preview-link">(Tearmoon Empire)</a>
+                                            <Link href="img/anime/2023/tearmoon-empire/MiaLuna.gif" className="glightbox preview-link">(Tearmoon Empire)</Link>
                                         </h5>
                                     </div>
                                 </div>
