@@ -17,7 +17,7 @@ const MasamuneRevenge = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Masamune's Revenge</span></h2>
-                            <Link href='https://www.livechart.me/anime/2226' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/2226' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const MasamuneRevenge = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Koiwai Yoshino</small>
                                             <br />
-                                            <Link href="img/anime/2017/masamune-revenge/KoiwaiYoshino.gif" className="glightbox preview-link">(Masamune's Revenge)</Link>
+                                            <a href="img/anime/2017/masamune-revenge/KoiwaiYoshino.gif" className="glightbox preview-link">(Masamune's Revenge)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const MasamuneRevenge = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Adagaki Aki</small>
                                             <br />
-                                            <Link href="img/anime/2017/masamune-revenge/AdagakiAki.gif" className="glightbox preview-link">(Masamune's Revenge)</Link>
+                                            <a href="img/anime/2017/masamune-revenge/AdagakiAki.gif" className="glightbox preview-link">(Masamune's Revenge)</a>
                                         </h5>
                                     </div>
                                 </div>

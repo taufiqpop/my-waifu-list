@@ -17,7 +17,7 @@ const HighSchoolDxD = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">High School DxD</span></h2>
-                            <Link href='https://www.livechart.me/anime/1149' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/1149' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const HighSchoolDxD = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Argento Asia</small>
                                             <br />
-                                            <Link href="img/anime/2012/high-school-dxd/ArgentoAsia.gif" className="glightbox preview-link">(High School DxD)</Link>
+                                            <a href="img/anime/2012/high-school-dxd/ArgentoAsia.gif" className="glightbox preview-link">(High School DxD)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const HighSchoolDxD = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Shidou Irina</small>
                                             <br />
-                                            <Link href="img/anime/2012/high-school-dxd/ShidouIrina.gif" className="glightbox preview-link">(High School DxD)</Link>
+                                            <a href="img/anime/2012/high-school-dxd/ShidouIrina.gif" className="glightbox preview-link">(High School DxD)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -67,7 +67,7 @@ const HighSchoolDxD = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Gremory Rias</small>
                                             <br />
-                                            <Link href="img/anime/2012/high-school-dxd/GremoryRias.gif" className="glightbox preview-link">(High School DxD)</Link>
+                                            <a href="img/anime/2012/high-school-dxd/GremoryRias.gif" className="glightbox preview-link">(High School DxD)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@ const HighSchoolDxD = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Himejima Akeno</small>
                                             <br />
-                                            <Link href="img/anime/2012/high-school-dxd/HimejimaAkeno.gif" className="glightbox preview-link">(High School DxD)</Link>
+                                            <a href="img/anime/2012/high-school-dxd/HimejimaAkeno.gif" className="glightbox preview-link">(High School DxD)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@ const HighSchoolDxD = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Toujou Koneko</small>
                                             <br />
-                                            <Link href="img/anime/2012/high-school-dxd/ToujouKoneko.webp" className="glightbox preview-link">(High School DxD)</Link>
+                                            <a href="img/anime/2012/high-school-dxd/ToujouKoneko.webp" className="glightbox preview-link">(High School DxD)</a>
                                         </h5>
                                     </div>
                                 </div>

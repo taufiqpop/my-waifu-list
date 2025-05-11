@@ -221,6 +221,7 @@ const Header = () => {
                     <Link href="javascript:void(0)"><span>Games</span> <i className="bi bi-chevron-down toggle-dropdown"></i></Link>
                     <ul>
                         <li><Link to="/games/genshin-impact">Genshin Impact</Link></li>
+                        <li><Link to="/games/zenless-zone-zero">Zenless Zone Zero</Link></li>
                         <li><Link to="/games/honkai-star-rail">Honkai Star Rail</Link></li>
                         <li><Link to="/games/wuthering-waves">Wuthering Waves</Link></li>
                     </ul>

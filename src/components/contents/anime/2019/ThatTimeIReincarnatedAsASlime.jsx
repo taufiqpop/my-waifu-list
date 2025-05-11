@@ -17,7 +17,7 @@ const ThatTimeIReincarnatedAsASlime = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">That Time I Got Reincarnated As A Slime</span></h2>
-                            <Link href='https://www.livechart.me/anime/3132' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/3132' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const ThatTimeIReincarnatedAsASlime = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nava Milim</small>
                                             <br />
-                                            <Link href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/NavaMilim.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</Link>
+                                            <a href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/NavaMilim.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const ThatTimeIReincarnatedAsASlime = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Shuna</small>
                                             <br />
-                                            <Link href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/Shuna.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</Link>
+                                            <a href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/Shuna.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -67,7 +67,7 @@ const ThatTimeIReincarnatedAsASlime = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Souka</small>
                                             <br />
-                                            <Link href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/Souka.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</Link>
+                                            <a href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/Souka.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@ const ThatTimeIReincarnatedAsASlime = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Ultima</small>
                                             <br />
-                                            <Link href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/Ultima.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</Link>
+                                            <a href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/Ultima.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@ const ThatTimeIReincarnatedAsASlime = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Elmesia</small>
                                             <br />
-                                            <Link href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/Elmesia.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</Link>
+                                            <a href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/Elmesia.gif" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -115,7 +115,7 @@ const ThatTimeIReincarnatedAsASlime = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Valentine Luminous</small>
                                             <br />
-                                            <Link href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/ValentineLuminous.webp" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</Link>
+                                            <a href="img/anime/2019/that-time-i-got-reincarnated-as-a-slime/ValentineLuminous.webp" className="glightbox preview-link">(That Time I Got Reincarnated As A Slime)</a>
                                         </h5>
                                     </div>
                                 </div>

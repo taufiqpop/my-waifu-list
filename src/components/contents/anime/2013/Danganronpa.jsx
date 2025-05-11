@@ -17,7 +17,7 @@ const Danganronpa = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Danganronpa</span></h2>
-                            <Link href='https://www.livechart.me/anime/3' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/3' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const Danganronpa = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nanami Chiaki</small>
                                             <br />
-                                            <Link href="img/anime/2013/danganronpa/NanamiChiaki.gif" className="glightbox preview-link">(Danganronpa)</Link>
+                                            <a href="img/anime/2013/danganronpa/NanamiChiaki.gif" className="glightbox preview-link">(Danganronpa)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const Danganronpa = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kirigiri Kyouko</small>
                                             <br />
-                                            <Link href="img/anime/2013/danganronpa/KirigiriKyouko.gif" className="glightbox preview-link">(Danganronpa)</Link>
+                                            <a href="img/anime/2013/danganronpa/KirigiriKyouko.gif" className="glightbox preview-link">(Danganronpa)</a>
                                         </h5>
                                     </div>
                                 </div>

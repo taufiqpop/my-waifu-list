@@ -17,7 +17,7 @@ const MyTeenRomanticComedy = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">My Teen Romantic Comedy</span></h2>
-                            <Link href='https://www.livechart.me/anime/844' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/844' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const MyTeenRomanticComedy = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yuigahama Yui</small>
                                             <br />
-                                            <Link href="img/anime/2013/my-teen-romantic-comedy/YuigahamaYui.gif" className="glightbox preview-link">(My Teen Romantic Comedy)</Link>
+                                            <a href="img/anime/2013/my-teen-romantic-comedy/YuigahamaYui.gif" className="glightbox preview-link">(My Teen Romantic Comedy)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const MyTeenRomanticComedy = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yukinoshita Yukino</small>
                                             <br />
-                                            <Link href="img/anime/2013/my-teen-romantic-comedy/YukinoshitaYukino.gif" className="glightbox preview-link">(My Teen Romantic Comedy)</Link>
+                                            <a href="img/anime/2013/my-teen-romantic-comedy/YukinoshitaYukino.gif" className="glightbox preview-link">(My Teen Romantic Comedy)</a>
                                         </h5>
                                     </div>
                                 </div>

@@ -17,7 +17,7 @@ const MushokuTensei = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Mushoku Tensei : Jobless Reincarnation</span></h2>
-                            <Link href='https://www.livechart.me/anime/9357' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/9357' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const MushokuTensei = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Migurdia Roxy</small>
                                             <br />
-                                            <Link href="img/anime/2021/mushoku-tensei/MigurdiaRoxy.gif" className="glightbox preview-link">(Mushoku Tensei)</Link>
+                                            <a href="img/anime/2021/mushoku-tensei/MigurdiaRoxy.gif" className="glightbox preview-link">(Mushoku Tensei)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const MushokuTensei = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nanahoshi Shizuka</small>
                                             <br />
-                                            <Link href="img/anime/2021/mushoku-tensei/NanahoshiShizuka.gif" className="glightbox preview-link">(Mushoku Tensei)</Link>
+                                            <a href="img/anime/2021/mushoku-tensei/NanahoshiShizuka.gif" className="glightbox preview-link">(Mushoku Tensei)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -67,7 +67,7 @@ const MushokuTensei = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Boreas Eris</small>
                                             <br />
-                                            <Link href="img/anime/2021/mushoku-tensei/BoreasEris.gif" className="glightbox preview-link">(Mushoku Tensei)</Link>
+                                            <a href="img/anime/2021/mushoku-tensei/BoreasEris.gif" className="glightbox preview-link">(Mushoku Tensei)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@ const MushokuTensei = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sylphiette</small>
                                             <br />
-                                            <Link href="img/anime/2021/mushoku-tensei/Sylphiette.gif" className="glightbox preview-link">(Mushoku Tensei)</Link>
+                                            <a href="img/anime/2021/mushoku-tensei/Sylphiette.gif" className="glightbox preview-link">(Mushoku Tensei)</a>
                                         </h5>
                                     </div>
                                 </div>

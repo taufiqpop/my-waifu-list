@@ -6,6 +6,7 @@ import Home from './components/Home';
 import GenshinImpact from './components/contents/games/GenshinImpact';
 import HonkaiStarRail from './components/contents/games/HonkaiStarRail';
 import WutheringWaves from './components/contents/games/WutheringWaves';
+import ZenlessZoneZero from './components/contents/games/ZenlessZoneZero';
 
 // Anime 1996
 import DetectiveConan from './components/contents/anime/1996/DetectiveConan';
@@ -89,6 +90,7 @@ const AppRouter = () => {
             <Route path="/games/genshin-impact" element={<GenshinImpact />} />
             <Route path="/games/honkai-star-rail" element={<HonkaiStarRail />} />
             <Route path="/games/wuthering-waves" element={<WutheringWaves />} />
+            <Route path="/games/zenless-zone-zero" element={<ZenlessZoneZero />} />
 
             {/* Anime 1996 */}
             <Route path="/anime/1996/detective-conan" element={<DetectiveConan />} />

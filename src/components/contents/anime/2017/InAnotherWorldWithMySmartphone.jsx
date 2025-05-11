@@ -17,7 +17,7 @@ const InAnotherWorldWithMySmartphone = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">In Another World With My Smartphone</span></h2>
-                            <Link href='https://www.livechart.me/anime/2604' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/2604' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const InAnotherWorldWithMySmartphone = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Urnea Belfast Yumina</small>
                                             <br />
-                                            <Link href="img/anime/2017/in-another-world-with-my-smartphone/UrneaBelfastYumina.gif" className="glightbox preview-link">(In Another World With My Smartphone)</Link>
+                                            <a href="img/anime/2017/in-another-world-with-my-smartphone/UrneaBelfastYumina.gif" className="glightbox preview-link">(In Another World With My Smartphone)</a>
                                         </h5>
                                     </div>
                                 </div>

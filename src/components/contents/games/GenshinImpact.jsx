@@ -17,7 +17,7 @@ const GenshinImpact = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Genshin Impact</span></h2>
-                            <Link href='https://genshin.hoyoverse.com/en/home' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
+                            <a href='https://genshin.hoyoverse.com/en/home' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Hu Tao</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/HuTao.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/HuTao.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Sangonomiya Kokomi</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/SangonomiyaKokomi.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/SangonomiyaKokomi.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -67,7 +67,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Keqing</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Keqing.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Keqing.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Lumine</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Lumine.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Lumine.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Mualani</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Mualani.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Mualani.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -115,7 +115,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nilou</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Nilou.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Nilou.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -131,7 +131,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Nahida</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Nahida.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Nahida.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -147,7 +147,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Furina</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Furina.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Furina.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -163,7 +163,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Raiden Shogun</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/RaidenShogun.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/RaidenShogun.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -179,7 +179,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Kamisato Ayaka</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/KamisatoAyaka.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/KamisatoAyaka.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -195,7 +195,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Navia</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Navia.webp" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Navia.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -211,7 +211,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Ganyu</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Ganyu.webp" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Ganyu.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -227,7 +227,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Klee</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Klee.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Klee.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -243,7 +243,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yoimiya</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Yoimiya.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Yoimiya.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -259,7 +259,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Mona</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Mona.webp" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Mona.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -275,7 +275,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Clorinde</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Clorinde.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Clorinde.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -291,7 +291,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Chiori</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Chiori.webp" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Chiori.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -307,7 +307,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Lynette</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Lynette.webp" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Lynette.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -323,7 +323,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Eula</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Eula.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Eula.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -339,7 +339,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yaoyao</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Yaoyao.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Yaoyao.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -355,7 +355,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Charlotte</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Charlotte.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Charlotte.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -371,7 +371,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Collei</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Collei.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Collei.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -387,7 +387,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Diona</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Diona.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Diona.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -403,7 +403,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Layla</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Layla.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Layla.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -419,7 +419,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Jean</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Jean.webp" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Jean.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -435,7 +435,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Xiangling</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Xiangling.gif" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Xiangling.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -451,7 +451,7 @@ const GenshinImpact = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Yanfei</small>
                                             <br />
-                                            <Link href="img/games/genshin-impact/Yanfei.webp" className="glightbox preview-link">(Genshin Impact)</Link>
+                                            <a href="img/games/genshin-impact/Yanfei.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>

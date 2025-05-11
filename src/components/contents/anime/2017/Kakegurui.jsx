@@ -17,7 +17,7 @@ const Kakegurui = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">Kakegurui</span></h2>
-                            <Link href='https://www.livechart.me/anime/2551' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/2551' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 9/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const Kakegurui = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Jabami Yumeko</small>
                                             <br />
-                                            <Link href="img/anime/2017/kakegurui/JabamiYumeko.gif" className="glightbox preview-link">(Kakegurui)</Link>
+                                            <a href="img/anime/2017/kakegurui/JabamiYumeko.gif" className="glightbox preview-link">(Kakegurui)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const Kakegurui = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Saotome Mary</small>
                                             <br />
-                                            <Link href="img/anime/2017/kakegurui/SaotomeMary.gif" className="glightbox preview-link">(Kakegurui)</Link>
+                                            <a href="img/anime/2017/kakegurui/SaotomeMary.gif" className="glightbox preview-link">(Kakegurui)</a>
                                         </h5>
                                     </div>
                                 </div>

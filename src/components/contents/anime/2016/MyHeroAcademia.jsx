@@ -17,7 +17,7 @@ const MyHeroAcademia = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="50">
                             <h2><span className="underlight">My Hero Academia</span></h2>
-                            <Link href='https://www.livechart.me/anime/1895' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></Link>
+                            <a href='https://www.livechart.me/anime/1895' target="_blank" rel="noreferrer" className="btn-get-started my-rating">My Rating ⭐ 10/10<br /></a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const MyHeroAcademia = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Uraraka Ochako</small>
                                             <br />
-                                            <Link href="img/anime/2016/my-hero-academia/UrarakaOchako.gif" className="glightbox preview-link">(My Hero Academia)</Link>
+                                            <a href="img/anime/2016/my-hero-academia/UrarakaOchako.gif" className="glightbox preview-link">(My Hero Academia)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const MyHeroAcademia = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Hagakure Tooru</small>
                                             <br />
-                                            <Link href="img/anime/2016/my-hero-academia/HagakureTooru.gif" className="glightbox preview-link">(My Hero Academia)</Link>
+                                            <a href="img/anime/2016/my-hero-academia/HagakureTooru.gif" className="glightbox preview-link">(My Hero Academia)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -67,7 +67,7 @@ const MyHeroAcademia = () => {
                                         <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
                                             <small>Toga Himiko</small>
                                             <br />
-                                            <Link href="img/anime/2016/my-hero-academia/TogaHimiko.gif" className="glightbox preview-link">(My Hero Academia)</Link>
+                                            <a href="img/anime/2016/my-hero-academia/TogaHimiko.gif" className="glightbox preview-link">(My Hero Academia)</a>
                                         </h5>
                                     </div>
                                 </div>
