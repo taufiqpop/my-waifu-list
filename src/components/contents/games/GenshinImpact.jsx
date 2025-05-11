@@ -218,38 +218,6 @@ const GenshinImpact = () => {
                             </div>
                         </div>
 
-                        {/* Klee */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Klee.gif" className="img-fluid" alt="Klee" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Klee</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Klee.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Yoimiya */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Yoimiya.gif" className="img-fluid" alt="Yoimiya" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Yoimiya</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Yoimiya.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
                         {/* Mona */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
@@ -260,22 +228,6 @@ const GenshinImpact = () => {
                                             <small>Mona</small>
                                             <br />
                                             <a href="img/games/genshin-impact/Mona.webp" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Clorinde */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Clorinde.gif" className="img-fluid" alt="Clorinde" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Clorinde</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Clorinde.gif" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
@@ -298,134 +250,6 @@ const GenshinImpact = () => {
                             </div>
                         </div>
 
-                        {/* Lynette */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Lynette.webp" className="img-fluid" alt="Lynette" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Lynette</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Lynette.webp" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Eula */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Eula.gif" className="img-fluid" alt="Eula" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Eula</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Eula.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Yaoyao */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Yaoyao.gif" className="img-fluid" alt="Yaoyao" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Yaoyao</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Yaoyao.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Charlotte */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Charlotte.gif" className="img-fluid" alt="Charlotte" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Charlotte</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Charlotte.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Collei */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Collei.gif" className="img-fluid" alt="Collei" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Collei</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Collei.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Diona */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Diona.gif" className="img-fluid" alt="Diona" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Diona</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Diona.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Layla */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Layla.gif" className="img-fluid" alt="Layla" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Layla</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Layla.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Jean */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Jean.webp" className="img-fluid" alt="Jean" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Jean</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Jean.webp" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
                         {/* Xiangling */}
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="gallery-item h-100">
@@ -436,22 +260,6 @@ const GenshinImpact = () => {
                                             <small>Xiangling</small>
                                             <br />
                                             <a href="img/games/genshin-impact/Xiangling.gif" className="glightbox preview-link">(Genshin Impact)</a>
-                                        </h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Yanfei */}
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="gallery-item h-100">
-                                <img src="img/games/genshin-impact/Yanfei.webp" className="img-fluid" alt="Yanfei" />
-                                <div className="gallery-links d-flex align-items-center justify-content-center">
-                                    <div className="card-img-overlay d-flex align-items-center p-0">
-                                        <h5 className="card-title text-center flex-fill p-3 fs-4 waifu-overlay">
-                                            <small>Yanfei</small>
-                                            <br />
-                                            <a href="img/games/genshin-impact/Yanfei.webp" className="glightbox preview-link">(Genshin Impact)</a>
                                         </h5>
                                     </div>
                                 </div>
