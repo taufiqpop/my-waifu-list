@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "year": 2024,
+        "type": "games",
+        "name": "wuthering-waves",
+        "path": "Camellya.gif"
+    },
+    {
+        "id": 2,
+        "year": 2024,
+        "type": "games",
+        "name": "wuthering-waves",
+        "path": "Jinhsi.gif"
+    },
+    {
+        "id": 3,
+        "year": 2024,
+        "type": "games",
+        "name": "wuthering-waves",
+        "path": "Rover.gif"
+    },
+    {
+        "id": 4,
+        "year": 2024,
+        "type": "games",
+        "name": "wuthering-waves",
+        "path": "Sanhua.gif"
+    },
+    {
+        "id": 5,
+        "year": 2024,
+        "type": "games",
+        "name": "wuthering-waves",
+        "path": "Shorekeeper.gif"
+    }
+]

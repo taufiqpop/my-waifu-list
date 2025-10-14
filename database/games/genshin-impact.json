@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Chiori.webp"
+    },
+    {
+        "id": 2,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Furina.gif"
+    },
+    {
+        "id": 3,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Ganyu.webp"
+    },
+    {
+        "id": 4,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "HuTao.gif"
+    },
+    {
+        "id": 5,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "KamisatoAyaka.gif"
+    },
+    {
+        "id": 6,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Keqing.gif"
+    },
+    {
+        "id": 7,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Lumine.gif"
+    },
+    {
+        "id": 8,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Mona.webp"
+    },
+    {
+        "id": 9,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Mualani.gif"
+    },
+    {
+        "id": 10,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Nahida.gif"
+    },
+    {
+        "id": 11,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Navia.webp"
+    },
+    {
+        "id": 12,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "nilou.gif"
+    },
+    {
+        "id": 13,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "RaidenShogun.gif"
+    },
+    {
+        "id": 14,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "SangonomiyaKokomi.gif"
+    },
+    {
+        "id": 15,
+        "year": 2020,
+        "type": "games",
+        "name": "genshin-impact",
+        "path": "Xiangling.gif"
+    }
+]
