@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "year": 1996,
+        "type": "anime",
+        "name": "detective-conan",
+        "path": "MouriRan.gif"
+    },
+    {
+        "id": 2,
+        "year": 1996,
+        "type": "anime",
+        "name": "detective-conan",
+        "path": "NakamoriAoko.gif"
+    },
+    {
+        "id": 1,
+        "year": 1996,
+        "type": "anime",
+        "name": "detective-conan",
+        "path": "TooyamaKazuha.gif"
+    }
+]
